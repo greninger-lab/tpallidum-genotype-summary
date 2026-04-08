@@ -1,0 +1,2076 @@
+##gff-version 3
+##source-version geneious 2023.0.4
+##sequence-region	NC_016842	1	1139330
+NC_016842	Geneious	region	1	1139330	.	+	0	Is_circular=true
+NC_016842	Geneious	source	1	1139330	.	+	.	Name=source Treponema pallidum subsp. pertenue str. SamoaD
+NC_016842	Geneious	gene	4	1398	.	+	.	Name=dnaA gene
+NC_016842	Geneious	CDS	4	1398	.	+	0	Name=dnaA CDS
+NC_016842	Geneious	gene	1641	2756	.	+	.	Name=dnaN gene
+NC_016842	Geneious	CDS	1641	2756	.	+	0	Name=dnaN CDS
+NC_016842	Geneious	gene	2701	3834	.	+	.	Name=recF gene
+NC_016842	Geneious	CDS	2701	3834	.	+	0	Name=recF CDS
+NC_016842	Geneious	gene	3827	4264	.	+	.	
+NC_016842	Geneious	CDS	3827	4264	.	+	0	Name=DUF721 domain-containing protein CDS
+NC_016842	Geneious	gene	4391	6832	.	+	.	Name=gyrA gene
+NC_016842	Geneious	CDS	4391	6832	.	+	0	Name=gyrA CDS
+NC_016842	Geneious	gene	7014	8261	.	+	.	
+NC_016842	Geneious	CDS	7014	8261	.	+	0	Name=DUF3798 domain-containing protein CDS
+NC_016842	Geneious	gene	8344	9828	.	-	.	
+NC_016842	Geneious	CDS	8344	9828	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	10399	12381	.	+	.	
+NC_016842	Geneious	CDS	10399	12381	.	+	0	Name=major outer sheath C-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	12548	13780	.	+	.	
+NC_016842	Geneious	CDS	12548	13780	.	+	0	Name=DUF3798 domain-containing protein CDS
+NC_016842	Geneious	gene	13971	15785	.	+	.	Name=pheT gene
+NC_016842	Geneious	CDS	13971	15785	.	+	0	Name=pheT CDS
+NC_016842	Geneious	gene	15748	18321	.	+	.	
+NC_016842	Geneious	CDS	15748	18321	.	+	0	Name=Lon protease family protein CDS
+NC_016842	Geneious	gene	18409	19356	.	+	.	
+NC_016842	Geneious	CDS	18409	19356	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	19373	22054	.	+	.	Name=greA gene
+NC_016842	Geneious	CDS	19373	22054	.	+	0	Name=greA CDS
+NC_016842	Geneious	gene	22054	24177	.	+	.	
+NC_016842	Geneious	CDS	22054	24177	.	+	0	Name=vWA domain-containing protein CDS
+NC_016842	Geneious	gene	24250	24344	.	-	.	Name=ffs gene
+NC_016842	Geneious	ncRNA	24250	24344	.	-	.	Name=ffs ncRNA
+NC_016842	Geneious	gene	24346	24433	.	-	.	
+NC_016842	Geneious	tRNA	24346	24433	.	-	.	Name=tRNA-Ser
+NC_016842	Geneious	gene	24490	24578	.	-	.	
+NC_016842	Geneious	tRNA	24490	24578	.	-	.	Name=tRNA-Ser
+NC_016842	Geneious	gene	24636	24709	.	-	.	
+NC_016842	Geneious	tRNA	24636	24709	.	-	.	Name=tRNA-Arg
+NC_016842	Geneious	gene	24741	24827	.	-	.	
+NC_016842	Geneious	tRNA	24741	24827	.	-	.	Name=tRNA-Ser
+NC_016842	Geneious	gene	24868	24952	.	-	.	
+NC_016842	Geneious	tRNA	24868	24952	.	-	.	Name=tRNA-Ser
+NC_016842	Geneious	gene	25115	25381	.	+	.	
+NC_016842	Geneious	CDS	25115	25381	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	25336	27504	.	+	.	
+NC_016842	Geneious	CDS	25336	27504	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	27565	28896	.	+	.	
+NC_016842	Geneious	CDS	27565	28896	.	+	0	Name=sodium-dependent transporter CDS
+NC_016842	Geneious	gene	29076	29786	.	+	.	
+NC_016842	Geneious	CDS	29076	29786	.	+	0	Name=potassium channel family protein CDS
+NC_016842	Geneious	gene	29865	32936	.	-	.	
+NC_016842	Geneious	CDS	29865	32936	.	-	0	Name=insulinase family protein CDS
+NC_016842	Geneious	gene	32965	33987	.	-	.	
+NC_016842	Geneious	CDS	32965	33987	.	-	0	Name=flagellar motor switch protein FliG CDS
+NC_016842	Geneious	gene	34060	35433	.	+	.	
+NC_016842	Geneious	CDS	34060	35433	.	+	0	Name=hemolysin family protein CDS
+NC_016842	Geneious	gene	35390	36808	.	+	.	
+NC_016842	Geneious	CDS	35390	36808	.	+	0	Name=CNNM domain-containing protein CDS
+NC_016842	Geneious	gene	36916	38193	.	+	.	Name=murA gene
+NC_016842	Geneious	CDS	36916	38193	.	+	0	Name=murA CDS
+NC_016842	Geneious	gene	38312	39946	.	+	.	Name=groL gene
+NC_016842	Geneious	CDS	38312	39946	.	+	0	Name=groL CDS
+NC_016842	Geneious	gene	40010	40288	.	+	.	
+NC_016842	Geneious	CDS	40010	40288	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	40285	41085	.	-	.	
+NC_016842	Geneious	CDS	40285	41085	.	-	0	Name=16S rRNA (uracil(1498)-N(3))-methyltransferase CDS
+NC_016842	Geneious	gene	41082	41750	.	-	.	
+NC_016842	Geneious	CDS	41082	41750	.	-	0	Name=DUF1361 domain-containing protein CDS
+NC_016842	Geneious	gene	41794	42744	.	-	.	
+NC_016842	Geneious	CDS	41794	42744	.	-	0	Name=metal ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	42942	43658	.	+	.	
+NC_016842	Geneious	CDS	42942	43658	.	+	0	Name=metal ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	43658	44458	.	+	.	
+NC_016842	Geneious	CDS	43658	44458	.	+	0	Name=metal ABC transporter permease CDS
+NC_016842	Geneious	gene	44567	45562	.	-	.	
+NC_016842	Geneious	CDS	44567	45562	.	-	0	Name=D-2-hydroxyacid dehydrogenase CDS
+NC_016842	Geneious	gene	45659	46678	.	-	.	
+NC_016842	Geneious	CDS	45659	46678	.	-	0	Name=PTS transporter subunit IIC CDS
+NC_016842	Geneious	gene	46739	46918	.	+	.	
+NC_016842	Geneious	CDS	46739	46918	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	46945	49389	.	+	.	
+NC_016842	Geneious	CDS	46945	49389	.	+	0	Name=methyl-accepting chemotaxis protein CDS
+NC_016842	Geneious	gene	49510	50442	.	+	.	
+NC_016842	Geneious	CDS	49510	50442	.	+	0	Name=LysM peptidoglycan-binding domain-containing protein CDS
+NC_016842	Geneious	gene	50450	52555	.	+	.	
+NC_016842	Geneious	CDS	50450	52555	.	+	0	Name=flagellar assembly lytic transglycosylase CDS
+NC_016842	Geneious	gene	52595	54487	.	+	.	Name=mnmG gene
+NC_016842	Geneious	CDS	52595	54487	.	+	0	Name=mnmG CDS
+NC_016842	Geneious	gene	54543	55442	.	-	.	
+NC_016842	Geneious	CDS	54543	55442	.	-	0	Name=adenosine deaminase CDS
+NC_016842	Geneious	gene	55804	56430	.	-	.	Name=ricT gene
+NC_016842	Geneious	CDS	55804	56430	.	-	0	Name=ricT CDS
+NC_016842	Geneious	gene	56523	57044	.	-	.	
+NC_016842	Geneious	CDS	56523	57044	.	-	0	Name=YaaR family protein CDS
+NC_016842	Geneious	gene	57050	57481	.	-	.	
+NC_016842	Geneious	CDS	57050	57481	.	-	0	Name=bactofilin family protein CDS
+NC_016842	Geneious	gene	57503	58594	.	-	.	
+NC_016842	Geneious	CDS	57503	58594	.	-	0	Name=M23 family metallopeptidase CDS
+NC_016842	Geneious	gene	58825	59433	.	-	.	
+NC_016842	Geneious	CDS	58825	59433	.	-	0	Name=phosphoribosyltransferase CDS
+NC_016842	Geneious	gene	59584	60639	.	+	.	Name=prfA gene
+NC_016842	Geneious	CDS	59584	60639	.	+	0	Name=prfA CDS
+NC_016842	Geneious	gene	60639	61655	.	+	.	Name=prmC gene
+NC_016842	Geneious	CDS	60639	61655	.	+	0	Name=prmC CDS
+NC_016842	Geneious	gene	61744	62799	.	-	.	
+NC_016842	Geneious	CDS	61744	62799	.	-	0	Name=ribonucleotide-diphosphate reductase subunit beta CDS
+NC_016842	Geneious	gene	62970	63929	.	+	.	
+NC_016842	Geneious	CDS	62970	63929	.	+	0	Name=TrmH family RNA methyltransferase CDS
+NC_016842	Geneious	gene	64136	64372	.	+	.	
+NC_016842	Geneious	CDS	64136	64372	.	+	0	Name=OadG family protein CDS
+NC_016842	Geneious	gene	64369	66150	.	+	.	Name=oadA gene
+NC_016842	Geneious	CDS	64369	66150	.	+	0	Name=oadA CDS
+NC_016842	Geneious	gene	66162	67571	.	+	.	
+NC_016842	Geneious	CDS	66162	67571	.	+	0	Name=sodium ion-translocating decarboxylase subunit beta CDS
+NC_016842	Geneious	gene	67646	68962	.	-	.	Name=dnaB gene
+NC_016842	Geneious	CDS	67646	68962	.	-	0	Name=dnaB CDS
+NC_016842	Geneious	gene	68946	69173	.	-	.	
+NC_016842	Geneious	CDS	68946	69173	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	69179	69649	.	-	.	Name=rplI gene
+NC_016842	Geneious	CDS	69179	69649	.	-	0	Name=rplI CDS
+NC_016842	Geneious	gene	69755	70054	.	-	.	Name=rpsR gene
+NC_016842	Geneious	CDS	69755	70054	.	-	0	Name=rpsR CDS
+NC_016842	Geneious	gene	70171	70701	.	-	.	
+NC_016842	Geneious	CDS	70171	70701	.	-	0	Name=single-stranded DNA-binding protein CDS
+NC_016842	Geneious	gene	70710	70991	.	-	.	Name=rpsF gene
+NC_016842	Geneious	CDS	70710	70991	.	-	0	Name=rpsF CDS
+NC_016842	Geneious	gene	71133	71708	.	+	.	
+NC_016842	Geneious	CDS	71133	71708	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	71764	72309	.	+	.	Name=rsmD gene
+NC_016842	Geneious	CDS	71764	72309	.	+	0	Name=rsmD CDS
+NC_016842	Geneious	gene	72354	72668	.	+	.	
+NC_016842	Geneious	CDS	72354	72668	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	72689	73525	.	+	.	
+NC_016842	Geneious	CDS	72689	73525	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	73706	74728	.	+	.	Name=rlmN gene
+NC_016842	Geneious	CDS	73706	74728	.	+	0	Name=rlmN CDS
+NC_016842	Geneious	gene	74784	75167	.	-	.	
+NC_016842	Geneious	CDS	74784	75167	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	75164	75550	.	-	.	
+NC_016842	Geneious	CDS	75164	75550	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	75601	78237	.	-	.	Name=clpB gene
+NC_016842	Geneious	CDS	75601	78237	.	-	0	Name=clpB CDS
+NC_016842	Geneious	gene	78441	78713	.	+	.	
+NC_016842	Geneious	CDS	78441	78713	.	+	0	Name=glutaredoxin domain-containing protein CDS
+NC_016842	Geneious	gene	78783	80324	.	-	.	
+NC_016842	Geneious	CDS	78783	80324	.	-	0	Name=HDOD domain-containing protein CDS
+NC_016842	Geneious	gene	80572	82038	.	+	.	
+NC_016842	Geneious	CDS	80572	82038	.	+	0	Name=extracellular solute-binding protein CDS
+NC_016842	Geneious	gene	82157	83047	.	+	.	
+NC_016842	Geneious	CDS	82157	83047	.	+	0	Name=carbohydrate ABC transporter permease CDS
+NC_016842	Geneious	gene	83087	83917	.	+	.	
+NC_016842	Geneious	CDS	83087	83917	.	+	0	Name=carbohydrate ABC transporter permease CDS
+NC_016842	Geneious	gene	83950	85566	.	+	.	
+NC_016842	Geneious	CDS	83950	85566	.	+	0	Name=polysaccharide biosynthesis protein CDS
+NC_016842	Geneious	gene	85571	86809	.	+	.	
+NC_016842	Geneious	CDS	85571	86809	.	+	0	Name=DegT/DnrJ/EryC1/StrS family aminotransferase CDS
+NC_016842	Geneious	gene	86737	88959	.	+	.	
+NC_016842	Geneious	CDS	86737	88959	.	+	0	Name=xanthine dehydrogenase family protein molybdopterin-binding subunit CDS
+NC_016842	Geneious	gene	88956	89423	.	+	.	
+NC_016842	Geneious	CDS	88956	89423	.	+	0	Name=(2Fe-2S)-binding protein CDS
+NC_016842	Geneious	gene	89430	90278	.	+	.	
+NC_016842	Geneious	CDS	89430	90278	.	+	0	Name=FAD binding domain-containing protein CDS
+NC_016842	Geneious	gene	90325	91911	.	-	.	
+NC_016842	Geneious	CDS	90325	91911	.	-	0	Name=sigma-54 interaction domain-containing protein CDS
+NC_016842	Geneious	gene	92074	94056	.	+	.	
+NC_016842	Geneious	CDS	92074	94056	.	+	0	Name=putative glycoside hydrolase CDS
+NC_016842	Geneious	gene	94136	94369	.	-	.	
+NC_016842	Geneious	CDS	94136	94369	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	94484	94930	.	-	.	
+NC_016842	Geneious	CDS	94484	94930	.	-	0	Name=PTS sugar transporter subunit IIA CDS
+NC_016842	Geneious	gene	95047	95955	.	+	.	
+NC_016842	Geneious	CDS	95047	95955	.	+	0	Name=PilZ domain-containing protein CDS
+NC_016842	Geneious	gene	95958	96521	.	-	.	
+NC_016842	Geneious	CDS	95958	96521	.	-	0	Name=DUF192 domain-containing protein CDS
+NC_016842	Geneious	gene	96481	97095	.	-	.	
+NC_016842	Geneious	CDS	96481	97095	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	97125	98360	.	-	.	
+NC_016842	Geneious	CDS	97125	98360	.	-	0	Name=Crp/Fnr family transcriptional regulator CDS
+NC_016842	Geneious	gene	98443	99507	.	-	.	
+NC_016842	Geneious	CDS	98443	99507	.	-	0	Name=UDP-N-acetylmuramate dehydrogenase CDS
+NC_016842	Geneious	gene	99689	101251	.	+	.	
+NC_016842	Geneious	CDS	99689	101251	.	+	0	Name=cysteine--tRNA ligase CDS
+NC_016842	Geneious	gene	101322	101810	.	+	.	
+NC_016842	Geneious	CDS	101322	101810	.	+	0	Name=RNA polymerase sigma factor CDS
+NC_016842	Geneious	gene	101833	102441	.	+	.	
+NC_016842	Geneious	CDS	101833	102441	.	+	0	Name=anti-sigma factor family protein CDS
+NC_016842	Geneious	gene	102579	103589	.	+	.	Name=pta gene
+NC_016842	Geneious	CDS	102579	103589	.	+	0	Name=pta CDS
+NC_016842	Geneious	gene	103589	105535	.	+	.	
+NC_016842	Geneious	CDS	103589	105535	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	105609	105971	.	-	.	
+NC_016842	Geneious	CDS	105609	105971	.	-	0	Name=TraR/DksA family transcriptional regulator CDS
+NC_016842	Geneious	gene	106141	106359	.	+	.	Name=infA gene
+NC_016842	Geneious	CDS	106141	106359	.	+	0	Name=infA CDS
+NC_016842	Geneious	gene	106412	107068	.	-	.	
+NC_016842	Geneious	CDS	106412	107068	.	-	0	Name=J domain-containing protein CDS
+NC_016842	Geneious	gene	107072	107827	.	-	.	
+NC_016842	Geneious	CDS	107072	107827	.	-	0	Name=UMP kinase CDS
+NC_016842	Geneious	gene	108022	108624	.	+	.	
+NC_016842	Geneious	CDS	108022	108624	.	+	0	Name=TlpA family protein disulfide reductase CDS
+NC_016842	Geneious	gene	108617	109411	.	+	.	
+NC_016842	Geneious	CDS	108617	109411	.	+	0	Name=cytochrome c biogenesis protein CcdA CDS
+NC_016842	Geneious	gene	109449	111422	.	-	.	
+NC_016842	Geneious	CDS	109449	111422	.	-	0	Name=ATP-dependent helicase CDS
+NC_016842	Geneious	gene	111487	113418	.	+	.	
+NC_016842	Geneious	CDS	111487	113418	.	+	0	Name=helicase-related protein CDS
+NC_016842	Geneious	gene	113556	115337	.	+	.	Name=nadN gene
+NC_016842	Geneious	CDS	113556	115337	.	+	0	Name=nadN CDS
+NC_016842	Geneious	gene	115504	118497	.	+	.	Name=polA gene
+NC_016842	Geneious	CDS	115504	118497	.	+	0	Name=polA CDS
+NC_016842	Geneious	gene	118529	120061	.	-	.	
+NC_016842	Geneious	CDS	118529	120061	.	-	0	Name=BCCT family transporter CDS
+NC_016842	Geneious	gene	120042	121853	.	-	.	
+NC_016842	Geneious	CDS	120042	121853	.	-	0	Name=phosphotransferase CDS
+NC_016842	Geneious	gene	121972	123357	.	-	.	
+NC_016842	Geneious	CDS	121972	123357	.	-	0	Name=ATP-dependent 6-phosphofructokinase CDS
+NC_016842	Geneious	gene	123459	124337	.	-	.	Name=rlmB gene
+NC_016842	Geneious	CDS	123459	124337	.	-	0	Name=rlmB CDS
+NC_016842	Geneious	gene	124597	124667	.	+	.	
+NC_016842	Geneious	tRNA	124597	124667	.	+	.	Name=tRNA-Gln
+NC_016842	Geneious	gene	124677	124748	.	+	.	
+NC_016842	Geneious	tRNA	124677	124748	.	+	.	Name=tRNA-Glu
+NC_016842	Geneious	gene	124785	124856	.	+	.	
+NC_016842	Geneious	tRNA	124785	124856	.	+	.	Name=tRNA-Glu
+NC_016842	Geneious	gene	124878	126611	.	+	.	
+NC_016842	Geneious	CDS	124878	126611	.	+	0	Name=DUF5312 domain-containing protein CDS
+NC_016842	Geneious	gene	126671	128098	.	+	.	Name=rpoN gene
+NC_016842	Geneious	CDS	126671	128098	.	+	0	Name=rpoN CDS
+NC_016842	Geneious	gene	128095	129447	.	-	.	
+NC_016842	Geneious	CDS	128095	129447	.	-	0	Name=C1 family peptidase CDS
+NC_016842	Geneious	gene	129589	130575	.	+	.	Name=hflK gene
+NC_016842	Geneious	CDS	129589	130575	.	+	0	Name=hflK CDS
+NC_016842	Geneious	gene	130580	131575	.	+	.	Name=hflC gene
+NC_016842	Geneious	CDS	130580	131575	.	+	0	Name=hflC CDS
+NC_016842	Geneious	gene	131600	132409	.	-	.	Name=thiD gene
+NC_016842	Geneious	CDS	131600	132409	.	-	0	Name=thiD CDS
+NC_016842	Geneious	gene	132560	134566	.	+	.	Name=uvrB gene
+NC_016842	Geneious	CDS	132560	134566	.	+	0	Name=uvrB CDS
+NC_016842	Geneious	gene	134598	136394	.	-	.	
+NC_016842	Geneious	CDS	134598	136394	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	136474	137739	.	-	.	
+NC_016842	Geneious	CDS	136474	137739	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	137837	138496	.	-	.	
+NC_016842	Geneious	CDS	137837	138496	.	-	0	Name=methionine ABC transporter permease CDS
+NC_016842	Geneious	gene	138496	139305	.	-	.	
+NC_016842	Geneious	CDS	138496	139305	.	-	0	Name=methionine ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	139435	140502	.	+	.	
+NC_016842	Geneious	CDS	139435	140502	.	+	0	Name=KamA family radical SAM protein CDS
+NC_016842	Geneious	gene	140722	142578	.	-	.	
+NC_016842	Geneious	CDS	140722	142578	.	-	0	Name=phosphoenolpyruvate carboxykinase (GTP) CDS
+NC_016842	Geneious	gene	142684	145254	.	+	.	
+NC_016842	Geneious	CDS	142684	145254	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	145268	146374	.	+	.	Name=ychF gene
+NC_016842	Geneious	CDS	145268	146374	.	+	0	Name=ychF CDS
+NC_016842	Geneious	gene	146451	147245	.	+	.	
+NC_016842	Geneious	CDS	146451	147245	.	+	0	Name=exodeoxyribonuclease III CDS
+NC_016842	Geneious	gene	147309	148184	.	-	.	
+NC_016842	Geneious	CDS	147309	148184	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	148508	148648	.	-	.	
+NC_016842	Geneious	CDS	148508	148648	.	-	0	Name=major outer sheath C-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	149597	150248	.	+	.	
+NC_016842	Geneious	CDS	149597	150248	.	+	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	150413	150760	.	+	.	
+NC_016842	Geneious	CDS	150413	150760	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	150745	151221	.	+	.	
+NC_016842	Geneious	CDS	150745	151221	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	152044	153834	.	-	.	
+NC_016842	Geneious	CDS	152044	153834	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	154035	155264	.	-	.	
+NC_016842	Geneious	CDS	154035	155264	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	155264	156394	.	-	.	
+NC_016842	Geneious	CDS	155264	156394	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	156707	157279	.	+	.	
+NC_016842	Geneious	CDS	156707	157279	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	157432	157504	.	+	.	
+NC_016842	Geneious	tRNA	157432	157504	.	+	.	Name=tRNA-Val
+NC_016842	Geneious	gene	157628	159040	.	+	.	
+NC_016842	Geneious	CDS	157628	159040	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	159153	159347	.	+	.	
+NC_016842	Geneious	CDS	159153	159347	.	+	0	Name=major outer sheath C-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	159294	160031	.	-	.	
+NC_016842	Geneious	CDS	159294	160031	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	160039	160731	.	-	.	
+NC_016842	Geneious	CDS	160039	160731	.	-	0	Name=potassium channel family protein CDS
+NC_016842	Geneious	gene	160771	162498	.	-	.	
+NC_016842	Geneious	CDS	160771	162498	.	-	0	Name=TrkH family potassium uptake protein CDS
+NC_016842	Geneious	gene	162670	163203	.	+	.	
+NC_016842	Geneious	CDS	162670	163203	.	+	0	Name=methylated-DNA--[protein]-cysteine S-methyltransferase CDS
+NC_016842	Geneious	gene	163154	163816	.	-	.	
+NC_016842	Geneious	CDS	163154	163816	.	-	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	163809	165551	.	-	.	
+NC_016842	Geneious	CDS	163809	165551	.	-	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	165548	166555	.	-	.	
+NC_016842	Geneious	CDS	165548	166555	.	-	0	Name=thiamine ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	166665	168635	.	+	.	
+NC_016842	Geneious	CDS	166665	168635	.	+	0	Name=AMP-dependent synthetase/ligase CDS
+NC_016842	Geneious	gene	168710	168791	.	-	.	
+NC_016842	Geneious	tRNA	168710	168791	.	-	.	Name=tRNA-Leu
+NC_016842	Geneious	gene	168766	169455	.	+	.	
+NC_016842	Geneious	CDS	168766	169455	.	+	0	Name=chromate transporter CDS
+NC_016842	Geneious	gene	169452	170030	.	+	.	
+NC_016842	Geneious	CDS	169452	170030	.	+	0	Name=chromate transporter CDS
+NC_016842	Geneious	gene	170040	171899	.	-	.	
+NC_016842	Geneious	CDS	170040	171899	.	-	0	Name=alpha-amylase/4-alpha-glucanotransferase domain-containing protein CDS
+NC_016842	Geneious	gene	171896	172474	.	-	.	
+NC_016842	Geneious	CDS	171896	172474	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	172468	173061	.	-	.	
+NC_016842	Geneious	CDS	172468	173061	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	173054	173521	.	-	.	
+NC_016842	Geneious	CDS	173054	173521	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	173505	174524	.	-	.	
+NC_016842	Geneious	CDS	173505	174524	.	-	0	Name=RnfABCDGE type electron transport complex subunit D CDS
+NC_016842	Geneious	gene	174511	175995	.	-	.	
+NC_016842	Geneious	CDS	174511	175995	.	-	0	Name=SLBB domain-containing protein CDS
+NC_016842	Geneious	gene	176131	176622	.	-	.	
+NC_016842	Geneious	CDS	176131	176622	.	-	0	Name=divergent PAP2 family protein CDS
+NC_016842	Geneious	gene	176670	177884	.	+	.	
+NC_016842	Geneious	CDS	176670	177884	.	+	0	Name=RluA family pseudouridine synthase CDS
+NC_016842	Geneious	gene	177890	179005	.	+	.	
+NC_016842	Geneious	CDS	177890	179005	.	+	0	Name=M23 family metallopeptidase CDS
+NC_016842	Geneious	gene	179046	179450	.	-	.	
+NC_016842	Geneious	CDS	179046	179450	.	-	0	Name=acyl-CoA thioesterase CDS
+NC_016842	Geneious	gene	179447	180349	.	-	.	
+NC_016842	Geneious	CDS	179447	180349	.	-	0	Name=1-acyl-sn-glycerol-3-phosphate acyltransferase CDS
+NC_016842	Geneious	gene	180346	181032	.	-	.	
+NC_016842	Geneious	CDS	180346	181032	.	-	0	Name=pyrimidine 5'-nucleotidase CDS
+NC_016842	Geneious	gene	181036	182064	.	-	.	
+NC_016842	Geneious	CDS	181036	182064	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	182180	184033	.	-	.	
+NC_016842	Geneious	CDS	182180	184033	.	-	0	Name=proline--tRNA ligase CDS
+NC_016842	Geneious	gene	184145	185197	.	-	.	Name=ruvB gene
+NC_016842	Geneious	CDS	184145	185197	.	-	0	Name=ruvB CDS
+NC_016842	Geneious	gene	185373	186299	.	+	.	Name=troA gene
+NC_016842	Geneious	CDS	185373	186299	.	+	0	Name=troA CDS
+NC_016842	Geneious	gene	186447	187247	.	+	.	Name=troB gene
+NC_016842	Geneious	CDS	186447	187247	.	+	0	Name=troB CDS
+NC_016842	Geneious	gene	187219	188115	.	+	.	Name=troC gene
+NC_016842	Geneious	CDS	187219	188115	.	+	0	Name=troC CDS
+NC_016842	Geneious	gene	188119	189222	.	+	.	Name=troD gene
+NC_016842	Geneious	CDS	188119	189222	.	+	0	Name=troD CDS
+NC_016842	Geneious	gene	189232	189693	.	+	.	Name=troR gene
+NC_016842	Geneious	CDS	189232	189693	.	+	0	Name=troR CDS
+NC_016842	Geneious	gene	189773	190528	.	+	.	Name=gpmA gene
+NC_016842	Geneious	CDS	189773	190528	.	+	0	Name=gpmA CDS
+NC_016842	Geneious	gene	190654	190726	.	+	.	
+NC_016842	Geneious	tRNA	190654	190726	.	+	.	Name=tRNA-Met
+NC_016842	Geneious	gene	190847	191656	.	+	.	
+NC_016842	Geneious	CDS	190847	191656	.	+	0	Name=5'-methylthioadenosine/adenosylhomocysteine nucleosidase CDS
+NC_016842	Geneious	gene	191756	192184	.	+	.	
+NC_016842	Geneious	CDS	191756	192184	.	+	0	Name=FMN-binding protein CDS
+NC_016842	Geneious	gene	192174	193553	.	-	.	
+NC_016842	Geneious	CDS	192174	193553	.	-	0	Name=GGDEF domain-containing protein CDS
+NC_016842	Geneious	gene	193546	195066	.	-	.	
+NC_016842	Geneious	CDS	193546	195066	.	-	0	Name=motility associated factor glycosyltransferase family protein CDS
+NC_016842	Geneious	gene	195063	196475	.	-	.	
+NC_016842	Geneious	CDS	195063	196475	.	-	0	Name=6-hydroxymethylpterin diphosphokinase MptE-like protein CDS
+NC_016842	Geneious	gene	196466	197392	.	-	.	
+NC_016842	Geneious	CDS	196466	197392	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	197392	199341	.	-	.	
+NC_016842	Geneious	CDS	197392	199341	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	199369	199812	.	+	.	
+NC_016842	Geneious	CDS	199369	199812	.	+	0	Name=septum formation initiator family protein CDS
+NC_016842	Geneious	gene	199793	200431	.	+	.	
+NC_016842	Geneious	CDS	199793	200431	.	+	0	Name=L-threonylcarbamoyladenylate synthase CDS
+NC_016842	Geneious	gene	200434	201279	.	-	.	
+NC_016842	Geneious	CDS	200434	201279	.	-	0	Name=TP0183 family DNA metabolism protein CDS
+NC_016842	Geneious	gene	201284	201748	.	-	.	Name=smpB gene
+NC_016842	Geneious	CDS	201284	201748	.	-	0	Name=smpB CDS
+NC_016842	Geneious	gene	201917	202543	.	+	.	Name=lepB gene
+NC_016842	Geneious	CDS	201917	202543	.	+	0	Name=lepB CDS
+NC_016842	Geneious	gene	202562	203779	.	+	.	
+NC_016842	Geneious	CDS	202562	203779	.	+	0	Name=coproporphyrinogen-III oxidase family protein CDS
+NC_016842	Geneious	gene	204143	205330	.	+	.	Name=tuf gene
+NC_016842	Geneious	CDS	204143	205330	.	+	0	Name=tuf CDS
+NC_016842	Geneious	gene	205402	205710	.	+	.	Name=rpsJ gene
+NC_016842	Geneious	CDS	205402	205710	.	+	0	Name=rpsJ CDS
+NC_016842	Geneious	gene	205757	206383	.	+	.	Name=rplC gene
+NC_016842	Geneious	CDS	205757	206383	.	+	0	Name=rplC CDS
+NC_016842	Geneious	gene	206397	207047	.	+	.	Name=rplD gene
+NC_016842	Geneious	CDS	206397	207047	.	+	0	Name=rplD CDS
+NC_016842	Geneious	gene	207034	207318	.	+	.	
+NC_016842	Geneious	CDS	207034	207318	.	+	0	Name=50S ribosomal protein L23 CDS
+NC_016842	Geneious	gene	207374	208195	.	+	.	Name=rplB gene
+NC_016842	Geneious	CDS	207374	208195	.	+	0	Name=rplB CDS
+NC_016842	Geneious	gene	208205	208492	.	+	.	Name=rpsS gene
+NC_016842	Geneious	CDS	208205	208492	.	+	0	Name=rpsS CDS
+NC_016842	Geneious	gene	208501	208875	.	+	.	Name=rplV gene
+NC_016842	Geneious	CDS	208501	208875	.	+	0	Name=rplV CDS
+NC_016842	Geneious	gene	208859	209602	.	+	.	Name=rpsC gene
+NC_016842	Geneious	CDS	208859	209602	.	+	0	Name=rpsC CDS
+NC_016842	Geneious	gene	209606	210025	.	+	.	Name=rplP gene
+NC_016842	Geneious	CDS	209606	210025	.	+	0	Name=rplP CDS
+NC_016842	Geneious	gene	210040	210258	.	+	.	Name=rpmC gene
+NC_016842	Geneious	CDS	210040	210258	.	+	0	Name=rpmC CDS
+NC_016842	Geneious	gene	210273	210527	.	+	.	Name=rpsQ gene
+NC_016842	Geneious	CDS	210273	210527	.	+	0	Name=rpsQ CDS
+NC_016842	Geneious	gene	210540	210908	.	+	.	Name=rplN gene
+NC_016842	Geneious	CDS	210540	210908	.	+	0	Name=rplN CDS
+NC_016842	Geneious	gene	210920	211231	.	+	.	Name=rplX gene
+NC_016842	Geneious	CDS	210920	211231	.	+	0	Name=rplX CDS
+NC_016842	Geneious	gene	211228	211785	.	+	.	Name=rplE gene
+NC_016842	Geneious	CDS	211228	211785	.	+	0	Name=rplE CDS
+NC_016842	Geneious	gene	211797	211982	.	+	.	
+NC_016842	Geneious	CDS	211797	211982	.	+	0	Name=type Z 30S ribosomal protein S14 CDS
+NC_016842	Geneious	gene	211998	212396	.	+	.	Name=rpsH gene
+NC_016842	Geneious	CDS	211998	212396	.	+	0	Name=rpsH CDS
+NC_016842	Geneious	gene	212406	212945	.	+	.	Name=rplF gene
+NC_016842	Geneious	CDS	212406	212945	.	+	0	Name=rplF CDS
+NC_016842	Geneious	gene	212954	213316	.	+	.	Name=rplR gene
+NC_016842	Geneious	CDS	212954	213316	.	+	0	Name=rplR CDS
+NC_016842	Geneious	gene	213325	213843	.	+	.	Name=rpsE gene
+NC_016842	Geneious	CDS	213325	213843	.	+	0	Name=rpsE CDS
+NC_016842	Geneious	gene	213846	214031	.	+	.	Name=rpmD gene
+NC_016842	Geneious	CDS	213846	214031	.	+	0	Name=rpmD CDS
+NC_016842	Geneious	gene	214031	214492	.	+	.	Name=rplO gene
+NC_016842	Geneious	CDS	214031	214492	.	+	0	Name=rplO CDS
+NC_016842	Geneious	gene	214500	215819	.	+	.	Name=secY gene
+NC_016842	Geneious	CDS	214500	215819	.	+	0	Name=secY CDS
+NC_016842	Geneious	gene	215858	215971	.	+	.	Name=rpmJ gene
+NC_016842	Geneious	CDS	215858	215971	.	+	0	Name=rpmJ CDS
+NC_016842	Geneious	gene	215987	216352	.	+	.	Name=rpsM gene
+NC_016842	Geneious	CDS	215987	216352	.	+	0	Name=rpsM CDS
+NC_016842	Geneious	gene	216371	216751	.	+	.	Name=rpsK gene
+NC_016842	Geneious	CDS	216371	216751	.	+	0	Name=rpsK CDS
+NC_016842	Geneious	gene	216766	217821	.	+	.	Name=rpoA gene
+NC_016842	Geneious	CDS	216766	217821	.	+	0	Name=rpoA CDS
+NC_016842	Geneious	gene	217811	218305	.	+	.	Name=rplQ gene
+NC_016842	Geneious	CDS	217811	218305	.	+	0	Name=rplQ CDS
+NC_016842	Geneious	gene	218329	218526	.	+	.	
+NC_016842	Geneious	CDS	218329	218526	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	218732	219394	.	+	.	
+NC_016842	Geneious	CDS	218732	219394	.	+	0	Name=nucleotide exchange factor GrpE CDS
+NC_016842	Geneious	gene	219510	221417	.	+	.	Name=dnaK gene
+NC_016842	Geneious	CDS	219510	221417	.	+	0	Name=dnaK CDS
+NC_016842	Geneious	gene	221664	222788	.	+	.	Name=dnaJ gene
+NC_016842	Geneious	CDS	221664	222788	.	+	0	Name=dnaJ CDS
+NC_016842	Geneious	gene	222965	224434	.	+	.	
+NC_016842	Geneious	CDS	222965	224434	.	+	0	Name=PP2C family protein-serine/threonine phosphatase CDS
+NC_016842	Geneious	gene	224438	226585	.	+	.	
+NC_016842	Geneious	CDS	224438	226585	.	+	0	Name=PP2C family protein-serine/threonine phosphatase CDS
+NC_016842	Geneious	gene	226614	226940	.	+	.	
+NC_016842	Geneious	CDS	226614	226940	.	+	0	Name=STAS domain-containing protein CDS
+NC_016842	Geneious	gene	226927	227724	.	+	.	
+NC_016842	Geneious	CDS	226927	227724	.	+	0	Name=M15 family metallopeptidase CDS
+NC_016842	Geneious	gene	227749	228180	.	+	.	
+NC_016842	Geneious	CDS	227749	228180	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	228317	229756	.	+	.	
+NC_016842	Geneious	CDS	228317	229756	.	+	0	Name=aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme CDS
+NC_016842	Geneious	gene	229943	230683	.	+	.	
+NC_016842	Geneious	CDS	229943	230683	.	+	0	Name=leucine-rich repeat domain-containing protein CDS
+NC_016842	Geneious	gene	230867	232415	.	+	.	
+NC_016842	Geneious	rRNA	230867	232415	.	+	.	Name=16S rRNA
+NC_016842	Geneious	gene	232528	232601	.	+	.	
+NC_016842	Geneious	tRNA	232528	232601	.	+	.	Name=tRNA-Ile
+NC_016842	Geneious	gene	232711	235663	.	+	.	
+NC_016842	Geneious	rRNA	232711	235663	.	+	.	Name=23S rRNA
+NC_016842	Geneious	gene	235712	235822	.	+	.	Name=rrf gene
+NC_016842	Geneious	rRNA	235712	235822	.	+	.	Name=rrf rRNA
+NC_016842	Geneious	gene	236575	237342	.	-	.	
+NC_016842	Geneious	CDS	236575	237342	.	-	0	Name=energy-coupling factor ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	237409	238224	.	-	.	
+NC_016842	Geneious	CDS	237409	238224	.	-	0	Name=biotin transporter BioY CDS
+NC_016842	Geneious	gene	238189	239001	.	+	.	
+NC_016842	Geneious	CDS	238189	239001	.	+	0	Name=uracil-DNA glycosylase CDS
+NC_016842	Geneious	gene	239006	240979	.	+	.	Name=priA gene
+NC_016842	Geneious	CDS	239006	240979	.	+	0	Name=priA CDS
+NC_016842	Geneious	gene	241080	241730	.	+	.	
+NC_016842	Geneious	CDS	241080	241730	.	+	0	Name=RluA family pseudouridine synthase CDS
+NC_016842	Geneious	gene	241977	242522	.	+	.	
+NC_016842	Geneious	CDS	241977	242522	.	+	0	Name=STAS domain-containing protein CDS
+NC_016842	Geneious	gene	242657	242729	.	+	.	
+NC_016842	Geneious	tRNA	242657	242729	.	+	.	Name=tRNA-Thr
+NC_016842	Geneious	gene	242758	242928	.	+	.	Name=rpmG gene
+NC_016842	Geneious	CDS	242758	242928	.	+	0	Name=rpmG CDS
+NC_016842	Geneious	gene	242983	243055	.	+	.	
+NC_016842	Geneious	tRNA	242983	243055	.	+	.	Name=tRNA-Trp
+NC_016842	Geneious	gene	243078	243257	.	+	.	Name=secE gene
+NC_016842	Geneious	CDS	243078	243257	.	+	0	Name=secE CDS
+NC_016842	Geneious	gene	243267	243824	.	+	.	Name=nusG gene
+NC_016842	Geneious	CDS	243267	243824	.	+	0	Name=nusG CDS
+NC_016842	Geneious	gene	243931	244371	.	+	.	Name=rplK gene
+NC_016842	Geneious	CDS	243931	244371	.	+	0	Name=rplK CDS
+NC_016842	Geneious	gene	244368	245048	.	+	.	Name=rplA gene
+NC_016842	Geneious	CDS	244368	245048	.	+	0	Name=rplA CDS
+NC_016842	Geneious	gene	245050	245592	.	+	.	Name=rplJ gene
+NC_016842	Geneious	CDS	245050	245592	.	+	0	Name=rplJ CDS
+NC_016842	Geneious	gene	245701	246090	.	+	.	Name=rplL gene
+NC_016842	Geneious	CDS	245701	246090	.	+	0	Name=rplL CDS
+NC_016842	Geneious	gene	246353	249889	.	+	.	Name=rpoB gene
+NC_016842	Geneious	CDS	246353	249889	.	+	0	Name=rpoB CDS
+NC_016842	Geneious	gene	249902	254152	.	+	.	Name=rpoC gene
+NC_016842	Geneious	CDS	249902	254152	.	+	0	Name=rpoC CDS
+NC_016842	Geneious	gene	254255	254629	.	+	.	Name=rpsL gene
+NC_016842	Geneious	CDS	254255	254629	.	+	0	Name=rpsL CDS
+NC_016842	Geneious	gene	254651	255121	.	+	.	Name=rpsG gene
+NC_016842	Geneious	CDS	254651	255121	.	+	0	Name=rpsG CDS
+NC_016842	Geneious	gene	255364	258600	.	+	.	
+NC_016842	Geneious	CDS	255364	258600	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	258746	260539	.	+	.	
+NC_016842	Geneious	CDS	258746	260539	.	+	0	Name=vWA domain-containing protein CDS
+NC_016842	Geneious	gene	260590	261663	.	+	.	
+NC_016842	Geneious	CDS	260590	261663	.	+	0	Name=N-acetylmuramoyl-L-alanine amidase CDS
+NC_016842	Geneious	gene	261660	262133	.	+	.	
+NC_016842	Geneious	CDS	261660	262133	.	+	0	Name=GerMN domain-containing protein CDS
+NC_016842	Geneious	gene	262212	263264	.	+	.	
+NC_016842	Geneious	CDS	262212	263264	.	+	0	Name=flagellar filament outer layer protein FlaA CDS
+NC_016842	Geneious	gene	263377	263664	.	+	.	Name=rpsT gene
+NC_016842	Geneious	CDS	263377	263664	.	+	0	Name=rpsT CDS
+NC_016842	Geneious	gene	263696	264013	.	+	.	
+NC_016842	Geneious	CDS	263696	264013	.	+	0	Name=HU family DNA-binding protein CDS
+NC_016842	Geneious	gene	264003	265643	.	+	.	Name=lnt gene
+NC_016842	Geneious	CDS	264003	265643	.	+	0	Name=lnt CDS
+NC_016842	Geneious	gene	265634	266047	.	+	.	
+NC_016842	Geneious	CDS	265634	266047	.	+	0	Name=bactofilin family protein CDS
+NC_016842	Geneious	gene	266284	267843	.	+	.	Name=rho gene
+NC_016842	Geneious	CDS	266284	267843	.	+	0	Name=rho CDS
+NC_016842	Geneious	gene	267962	268165	.	+	.	Name=rpmE gene
+NC_016842	Geneious	CDS	267962	268165	.	+	0	Name=rpmE CDS
+NC_016842	Geneious	gene	268210	268860	.	+	.	Name=pgsA gene
+NC_016842	Geneious	CDS	268210	268860	.	+	0	Name=pgsA CDS
+NC_016842	Geneious	gene	268975	270027	.	+	.	Name=glpQ gene
+NC_016842	Geneious	CDS	268975	270027	.	+	0	Name=glpQ CDS
+NC_016842	Geneious	gene	270093	270803	.	-	.	
+NC_016842	Geneious	CDS	270093	270803	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	270966	271493	.	+	.	
+NC_016842	Geneious	CDS	270966	271493	.	+	0	Name=LysM peptidoglycan-binding domain-containing protein CDS
+NC_016842	Geneious	gene	271624	272970	.	-	.	
+NC_016842	Geneious	CDS	271624	272970	.	-	0	Name=SH3 domain-containing protein CDS
+NC_016842	Geneious	gene	273085	274128	.	+	.	
+NC_016842	Geneious	CDS	273085	274128	.	+	0	Name=cyclic nucleotide-binding domain-containing protein CDS
+NC_016842	Geneious	gene	274121	274780	.	+	.	
+NC_016842	Geneious	CDS	274121	274780	.	+	0	Name=Crp/Fnr family transcriptional regulator CDS
+NC_016842	Geneious	gene	275054	276580	.	+	.	
+NC_016842	Geneious	CDS	275054	276580	.	+	0	Name=LamG-like jellyroll fold domain-containing protein CDS
+NC_016842	Geneious	gene	276585	277241	.	+	.	Name=deoC gene
+NC_016842	Geneious	CDS	276585	277241	.	+	0	Name=deoC CDS
+NC_016842	Geneious	gene	277301	277654	.	+	.	Name=ssrA gene
+NC_016842	Geneious	tmRNA	277301	277654	.	+	.	Name=ssrA tmRNA
+NC_016842	Geneious	gene	277673	279040	.	-	.	Name=brnQ gene
+NC_016842	Geneious	CDS	277673	279040	.	-	0	Name=brnQ CDS
+NC_016842	Geneious	gene	279269	280817	.	+	.	
+NC_016842	Geneious	rRNA	279269	280817	.	+	.	Name=16S rRNA
+NC_016842	Geneious	gene	280929	281002	.	+	.	
+NC_016842	Geneious	tRNA	280929	281002	.	+	.	Name=tRNA-Ala
+NC_016842	Geneious	gene	281123	284075	.	+	.	
+NC_016842	Geneious	rRNA	281123	284075	.	+	.	Name=23S rRNA
+NC_016842	Geneious	gene	284124	284234	.	+	.	Name=rrf gene
+NC_016842	Geneious	rRNA	284124	284234	.	+	.	Name=rrf rRNA
+NC_016842	Geneious	gene	284292	284657	.	+	.	
+NC_016842	Geneious	CDS	284292	284657	.	+	0	Name=bactofilin family protein CDS
+NC_016842	Geneious	gene	284654	285307	.	+	.	
+NC_016842	Geneious	CDS	284654	285307	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	285317	286765	.	+	.	Name=mtaB gene
+NC_016842	Geneious	CDS	285317	286765	.	+	0	Name=mtaB CDS
+NC_016842	Geneious	gene	286749	288275	.	+	.	
+NC_016842	Geneious	CDS	286749	288275	.	+	0	Name=CCA tRNA nucleotidyltransferase CDS
+NC_016842	Geneious	gene	288272	289246	.	-	.	
+NC_016842	Geneious	CDS	288272	289246	.	-	0	Name=ParB/RepB/Spo0J family partition protein CDS
+NC_016842	Geneious	gene	289233	289994	.	-	.	
+NC_016842	Geneious	CDS	289233	289994	.	-	0	Name=ParA family protein CDS
+NC_016842	Geneious	gene	290127	290918	.	+	.	
+NC_016842	Geneious	CDS	290127	290918	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	290956	291456	.	-	.	
+NC_016842	Geneious	CDS	290956	291456	.	-	0	Name=deoxycytidylate deaminase CDS
+NC_016842	Geneious	gene	291545	292294	.	-	.	
+NC_016842	Geneious	CDS	291545	292294	.	-	0	Name=WecB/TagA/CpsF family glycosyltransferase CDS
+NC_016842	Geneious	gene	292273	293112	.	-	.	
+NC_016842	Geneious	CDS	292273	293112	.	-	0	Name=16S rRNA (uracil(1498)-N(3))-methyltransferase CDS
+NC_016842	Geneious	gene	293330	294790	.	-	.	
+NC_016842	Geneious	CDS	293330	294790	.	-	0	Name=S41 family peptidase CDS
+NC_016842	Geneious	gene	294979	297570	.	+	.	Name=rpsA gene
+NC_016842	Geneious	CDS	294979	297570	.	+	0	Name=rpsA CDS
+NC_016842	Geneious	gene	297833	298552	.	+	.	
+NC_016842	Geneious	CDS	297833	298552	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	298730	299209	.	+	.	Name=coaD gene
+NC_016842	Geneious	CDS	298730	299209	.	+	0	Name=coaD CDS
+NC_016842	Geneious	gene	299419	300993	.	+	.	
+NC_016842	Geneious	CDS	299419	300993	.	+	0	Name=spiro-SPASM protein CDS
+NC_016842	Geneious	gene	300965	301921	.	+	.	
+NC_016842	Geneious	CDS	300965	301921	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	301921	304494	.	+	.	
+NC_016842	Geneious	CDS	301921	304494	.	+	0	Name=cytidylyltransferase domain-containing protein CDS
+NC_016842	Geneious	gene	304549	305382	.	+	.	
+NC_016842	Geneious	CDS	304549	305382	.	+	0	Name=HAD family hydrolase CDS
+NC_016842	Geneious	gene	305419	306300	.	+	.	
+NC_016842	Geneious	CDS	305419	306300	.	+	0	Name=alpha-hydroxy-acid oxidizing protein CDS
+NC_016842	Geneious	gene	306291	307544	.	+	.	
+NC_016842	Geneious	CDS	306291	307544	.	+	0	Name=OmpA family protein CDS
+NC_016842	Geneious	gene	307710	308975	.	+	.	
+NC_016842	Geneious	CDS	307710	308975	.	+	0	Name=ribose-phosphate pyrophosphokinase CDS
+NC_016842	Geneious	gene	308994	310238	.	+	.	
+NC_016842	Geneious	CDS	308994	310238	.	+	0	Name=FGGY-family carbohydrate kinase CDS
+NC_016842	Geneious	gene	310324	310959	.	+	.	
+NC_016842	Geneious	CDS	310324	310959	.	+	0	Name=dephospho-CoA kinase CDS
+NC_016842	Geneious	gene	310923	311735	.	+	.	
+NC_016842	Geneious	CDS	310923	311735	.	+	0	Name=SPOR domain-containing protein CDS
+NC_016842	Geneious	gene	311868	312899	.	+	.	
+NC_016842	Geneious	CDS	311868	312899	.	+	0	Name=BMP family ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	312896	314656	.	+	.	
+NC_016842	Geneious	CDS	312896	314656	.	+	0	Name=ATP-binding cassette domain-containing protein CDS
+NC_016842	Geneious	gene	314653	315786	.	+	.	
+NC_016842	Geneious	CDS	314653	315786	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	315777	316718	.	+	.	
+NC_016842	Geneious	CDS	315777	316718	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	316705	318651	.	-	.	Name=mutL gene
+NC_016842	Geneious	CDS	316705	318651	.	-	0	Name=mutL CDS
+NC_016842	Geneious	gene	318664	321780	.	-	.	
+NC_016842	Geneious	CDS	318664	321780	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	321707	323440	.	+	.	
+NC_016842	Geneious	CDS	321707	323440	.	+	0	Name=CTP synthase CDS
+NC_016842	Geneious	gene	323605	324219	.	+	.	Name=rpsD gene
+NC_016842	Geneious	CDS	323605	324219	.	+	0	Name=rpsD CDS
+NC_016842	Geneious	gene	324306	325334	.	+	.	
+NC_016842	Geneious	CDS	324306	325334	.	+	0	Name=PASTA domain-containing protein CDS
+NC_016842	Geneious	gene	325378	326274	.	+	.	
+NC_016842	Geneious	CDS	325378	326274	.	+	0	Name=ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	326235	327158	.	+	.	
+NC_016842	Geneious	CDS	326235	327158	.	+	0	Name=transporter substrate-binding domain-containing protein CDS
+NC_016842	Geneious	gene	327181	327510	.	+	.	
+NC_016842	Geneious	CDS	327181	327510	.	+	0	Name=single-stranded DNA-binding protein CDS
+NC_016842	Geneious	gene	327616	328629	.	+	.	
+NC_016842	Geneious	CDS	327616	328629	.	+	0	Name=DUF368 domain-containing protein CDS
+NC_016842	Geneious	gene	328720	331008	.	+	.	
+NC_016842	Geneious	CDS	328720	331008	.	+	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	331064	331771	.	-	.	
+NC_016842	Geneious	CDS	331064	331771	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	331870	333699	.	-	.	
+NC_016842	Geneious	CDS	331870	333699	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	333759	336029	.	-	.	
+NC_016842	Geneious	CDS	333759	336029	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	336188	337249	.	+	.	Name=tmpC gene
+NC_016842	Geneious	CDS	336188	337249	.	+	0	Name=tmpC CDS
+NC_016842	Geneious	gene	337268	337414	.	+	.	
+NC_016842	Geneious	CDS	337268	337414	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	337490	339091	.	+	.	
+NC_016842	Geneious	CDS	337490	339091	.	+	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	339001	340203	.	+	.	
+NC_016842	Geneious	CDS	339001	340203	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	340200	341150	.	+	.	
+NC_016842	Geneious	CDS	340200	341150	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	341254	345660	.	+	.	
+NC_016842	Geneious	CDS	341254	345660	.	+	0	Name=translocation/assembly module TamB domain-containing protein CDS
+NC_016842	Geneious	gene	345690	348191	.	+	.	Name=bamA gene
+NC_016842	Geneious	CDS	345690	348191	.	+	0	Name=bamA CDS
+NC_016842	Geneious	gene	348248	348766	.	+	.	
+NC_016842	Geneious	CDS	348248	348766	.	+	0	Name=OmpH family outer membrane protein CDS
+NC_016842	Geneious	gene	348822	351524	.	+	.	Name=mutS gene
+NC_016842	Geneious	CDS	348822	351524	.	+	0	Name=mutS CDS
+NC_016842	Geneious	gene	351642	353183	.	+	.	
+NC_016842	Geneious	CDS	351642	353183	.	+	0	Name=glycine hydroxymethyltransferase CDS
+NC_016842	Geneious	gene	353165	353247	.	-	.	
+NC_016842	Geneious	tRNA	353165	353247	.	-	.	Name=tRNA-Leu
+NC_016842	Geneious	gene	353339	355135	.	-	.	
+NC_016842	Geneious	CDS	353339	355135	.	-	0	Name=ATP-binding protein CDS
+NC_016842	Geneious	gene	355200	355271	.	-	.	
+NC_016842	Geneious	tRNA	355200	355271	.	-	.	Name=tRNA-Gly
+NC_016842	Geneious	gene	355365	356831	.	-	.	Name=gnd gene
+NC_016842	Geneious	CDS	355365	356831	.	-	0	Name=gnd CDS
+NC_016842	Geneious	gene	357010	357702	.	+	.	
+NC_016842	Geneious	CDS	357010	357702	.	+	0	Name=LolA family protein CDS
+NC_016842	Geneious	gene	357727	358944	.	+	.	
+NC_016842	Geneious	CDS	357727	358944	.	+	0	Name=helix-turn-helix domain-containing protein CDS
+NC_016842	Geneious	gene	358941	359483	.	-	.	
+NC_016842	Geneious	CDS	358941	359483	.	-	0	Name=CPBP family glutamic-type intramembrane protease CDS
+NC_016842	Geneious	gene	359383	361026	.	+	.	
+NC_016842	Geneious	CDS	359383	361026	.	+	0	Name=ComEC/Rec2 family competence protein CDS
+NC_016842	Geneious	gene	361007	361864	.	+	.	Name=rsmA gene
+NC_016842	Geneious	CDS	361007	361864	.	+	0	Name=rsmA CDS
+NC_016842	Geneious	gene	361882	362370	.	+	.	
+NC_016842	Geneious	CDS	361882	362370	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	362382	363377	.	+	.	
+NC_016842	Geneious	CDS	362382	363377	.	+	0	Name=RluA family pseudouridine synthase CDS
+NC_016842	Geneious	gene	363363	364835	.	-	.	
+NC_016842	Geneious	CDS	363363	364835	.	-	0	Name=folylpolyglutamate synthase/dihydrofolate synthase family protein CDS
+NC_016842	Geneious	gene	364854	366299	.	+	.	Name=murC gene
+NC_016842	Geneious	CDS	364854	366299	.	+	0	Name=murC CDS
+NC_016842	Geneious	gene	366420	366980	.	+	.	Name=cmk gene
+NC_016842	Geneious	CDS	366420	366980	.	+	0	Name=cmk CDS
+NC_016842	Geneious	gene	366974	367807	.	+	.	
+NC_016842	Geneious	CDS	366974	367807	.	+	0	Name=A/G-specific adenine glycosylase CDS
+NC_016842	Geneious	gene	367812	371234	.	-	.	Name=mfd gene
+NC_016842	Geneious	CDS	367812	371234	.	-	0	Name=mfd CDS
+NC_016842	Geneious	gene	371387	372478	.	+	.	
+NC_016842	Geneious	CDS	371387	372478	.	+	0	Name=phospho-N-acetylmuramoyl-pentapeptide- transferase CDS
+NC_016842	Geneious	gene	372635	373336	.	+	.	
+NC_016842	Geneious	CDS	372635	373336	.	+	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	373425	374135	.	+	.	
+NC_016842	Geneious	CDS	373425	374135	.	+	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	374155	375270	.	-	.	
+NC_016842	Geneious	CDS	374155	375270	.	-	0	Name=Gx transporter family protein CDS
+NC_016842	Geneious	gene	375249	375779	.	-	.	
+NC_016842	Geneious	CDS	375249	375779	.	-	0	Name=FKBP-type peptidyl-prolyl cis-trans isomerase CDS
+NC_016842	Geneious	gene	375992	377278	.	+	.	
+NC_016842	Geneious	CDS	375992	377278	.	+	0	Name=glutamate-5-semialdehyde dehydrogenase CDS
+NC_016842	Geneious	gene	377275	378165	.	+	.	Name=proB gene
+NC_016842	Geneious	CDS	377275	378165	.	+	0	Name=proB CDS
+NC_016842	Geneious	gene	378297	378554	.	+	.	
+NC_016842	Geneious	CDS	378297	378554	.	+	0	Name=YdbC family protein CDS
+NC_016842	Geneious	gene	378551	379060	.	-	.	Name=rnhA gene
+NC_016842	Geneious	CDS	378551	379060	.	-	0	Name=rnhA CDS
+NC_016842	Geneious	gene	379323	379949	.	+	.	Name=tmk gene
+NC_016842	Geneious	CDS	379323	379949	.	+	0	Name=tmk CDS
+NC_016842	Geneious	gene	379916	380299	.	-	.	
+NC_016842	Geneious	CDS	379916	380299	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	380552	380821	.	+	.	
+NC_016842	Geneious	CDS	380552	380821	.	+	0	Name=RNA recognition motif domain-containing protein CDS
+NC_016842	Geneious	gene	381004	381663	.	+	.	
+NC_016842	Geneious	CDS	381004	381663	.	+	0	Name=biotin--[acetyl-CoA-carboxylase] ligase CDS
+NC_016842	Geneious	gene	381668	383248	.	-	.	
+NC_016842	Geneious	CDS	381668	383248	.	-	0	Name=1%2C4-alpha-glucan branching protein domain-containing protein CDS
+NC_016842	Geneious	gene	383260	383895	.	-	.	
+NC_016842	Geneious	CDS	383260	383895	.	-	0	Name=DUF4912 domain-containing protein CDS
+NC_016842	Geneious	gene	384106	384282	.	+	.	
+NC_016842	Geneious	CDS	384106	384282	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	384279	385082	.	-	.	
+NC_016842	Geneious	CDS	384279	385082	.	-	0	Name=lysophospholipid acyltransferase family protein CDS
+NC_016842	Geneious	gene	385254	385439	.	+	.	Name=rpmB gene
+NC_016842	Geneious	CDS	385254	385439	.	+	0	Name=rpmB CDS
+NC_016842	Geneious	gene	385937	388369	.	+	.	
+NC_016842	Geneious	CDS	385937	388369	.	+	0	Name=chemotaxis protein CheA CDS
+NC_016842	Geneious	gene	388363	389730	.	+	.	
+NC_016842	Geneious	CDS	388363	389730	.	+	0	Name=CheR family methyltransferase CDS
+NC_016842	Geneious	gene	389752	390216	.	+	.	
+NC_016842	Geneious	CDS	389752	390216	.	+	0	Name=chemotaxis protein CheX CDS
+NC_016842	Geneious	gene	390229	390663	.	+	.	
+NC_016842	Geneious	CDS	390229	390663	.	+	0	Name=response regulator CDS
+NC_016842	Geneious	gene	390967	393792	.	+	.	
+NC_016842	Geneious	CDS	390967	393792	.	+	0	Name=chromosome segregation SMC family protein CDS
+NC_016842	Geneious	gene	393792	394127	.	+	.	
+NC_016842	Geneious	CDS	393792	394127	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	394124	395674	.	+	.	Name=bamD gene
+NC_016842	Geneious	CDS	394124	395674	.	+	0	Name=bamD CDS
+NC_016842	Geneious	gene	395742	396137	.	-	.	
+NC_016842	Geneious	CDS	395742	396137	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	396132	397007	.	+	.	Name=ispE gene
+NC_016842	Geneious	CDS	396132	397007	.	+	0	Name=ispE CDS
+NC_016842	Geneious	gene	397016	397088	.	+	.	
+NC_016842	Geneious	tRNA	397016	397088	.	+	.	Name=tRNA-Gln
+NC_016842	Geneious	gene	397129	397719	.	+	.	
+NC_016842	Geneious	CDS	397129	397719	.	+	0	Name=50S ribosomal protein L25/general stress proteinCtc CDS
+NC_016842	Geneious	gene	397779	399212	.	+	.	Name=tilS gene
+NC_016842	Geneious	CDS	397779	399212	.	+	0	Name=tilS CDS
+NC_016842	Geneious	gene	399148	401523	.	+	.	
+NC_016842	Geneious	CDS	399148	401523	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	401419	401709	.	-	.	
+NC_016842	Geneious	CDS	401419	401709	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	401681	401890	.	+	.	
+NC_016842	Geneious	CDS	401681	401890	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	401848	402173	.	-	.	
+NC_016842	Geneious	CDS	401848	402173	.	-	0	Name=PAS domain-containing protein CDS
+NC_016842	Geneious	gene	402206	403102	.	-	.	
+NC_016842	Geneious	CDS	402206	403102	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	403205	403684	.	+	.	
+NC_016842	Geneious	CDS	403205	403684	.	+	0	Name=flagellar basal body-associated protein FliL CDS
+NC_016842	Geneious	gene	403759	406509	.	-	.	Name=secA gene
+NC_016842	Geneious	CDS	403759	406509	.	-	0	Name=secA CDS
+NC_016842	Geneious	gene	406615	408435	.	-	.	
+NC_016842	Geneious	CDS	406615	408435	.	-	0	Name=DNA repair helicase XPB CDS
+NC_016842	Geneious	gene	408575	409291	.	-	.	
+NC_016842	Geneious	CDS	408575	409291	.	-	0	Name=YwaF family protein CDS
+NC_016842	Geneious	gene	409525	409974	.	+	.	Name=mraZ gene
+NC_016842	Geneious	CDS	409525	409974	.	+	0	Name=mraZ CDS
+NC_016842	Geneious	gene	409971	411110	.	+	.	Name=rsmH gene
+NC_016842	Geneious	CDS	409971	411110	.	+	0	Name=rsmH CDS
+NC_016842	Geneious	gene	411186	411497	.	+	.	
+NC_016842	Geneious	CDS	411186	411497	.	+	0	Name=cell division protein FtsL CDS
+NC_016842	Geneious	gene	411481	412860	.	+	.	
+NC_016842	Geneious	CDS	411481	412860	.	+	0	Name=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase CDS
+NC_016842	Geneious	gene	412857	414011	.	+	.	Name=ftsW gene
+NC_016842	Geneious	CDS	412857	414011	.	+	0	Name=ftsW CDS
+NC_016842	Geneious	gene	413989	414804	.	+	.	
+NC_016842	Geneious	CDS	413989	414804	.	+	0	Name=cell division protein FtsQ/DivIB CDS
+NC_016842	Geneious	gene	414817	416061	.	+	.	Name=ftsA gene
+NC_016842	Geneious	CDS	414817	416061	.	+	0	Name=ftsA CDS
+NC_016842	Geneious	gene	416107	417363	.	+	.	Name=ftsZ gene
+NC_016842	Geneious	CDS	416107	417363	.	+	0	Name=ftsZ CDS
+NC_016842	Geneious	gene	417360	418280	.	+	.	
+NC_016842	Geneious	CDS	417360	418280	.	+	0	Name=site-specific tyrosine recombinase CDS
+NC_016842	Geneious	gene	418270	419022	.	+	.	
+NC_016842	Geneious	CDS	418270	419022	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	419019	419927	.	+	.	Name=dprA gene
+NC_016842	Geneious	CDS	419019	419927	.	+	0	Name=dprA CDS
+NC_016842	Geneious	gene	419960	422155	.	+	.	Name=topA gene
+NC_016842	Geneious	CDS	419960	422155	.	+	0	Name=topA CDS
+NC_016842	Geneious	gene	422148	423041	.	+	.	
+NC_016842	Geneious	CDS	422148	423041	.	+	0	Name=tyrosine recombinase XerC CDS
+NC_016842	Geneious	gene	423189	423599	.	+	.	Name=flgB gene
+NC_016842	Geneious	CDS	423189	423599	.	+	0	Name=flgB CDS
+NC_016842	Geneious	gene	423617	424072	.	+	.	Name=flgC gene
+NC_016842	Geneious	CDS	423617	424072	.	+	0	Name=flgC CDS
+NC_016842	Geneious	gene	424128	424502	.	+	.	Name=fliE gene
+NC_016842	Geneious	CDS	424128	424502	.	+	0	Name=fliE CDS
+NC_016842	Geneious	gene	424619	426322	.	+	.	Name=fliF gene
+NC_016842	Geneious	CDS	424619	426322	.	+	0	Name=fliF CDS
+NC_016842	Geneious	gene	426327	427385	.	+	.	Name=fliG gene
+NC_016842	Geneious	CDS	426327	427385	.	+	0	Name=fliG CDS
+NC_016842	Geneious	gene	427433	428362	.	+	.	Name=fliH gene
+NC_016842	Geneious	CDS	427433	428362	.	+	0	Name=fliH CDS
+NC_016842	Geneious	gene	428390	429733	.	+	.	Name=fliI gene
+NC_016842	Geneious	CDS	428390	429733	.	+	0	Name=fliI CDS
+NC_016842	Geneious	gene	429762	430214	.	+	.	Name=fliJ gene
+NC_016842	Geneious	CDS	429762	430214	.	+	0	Name=fliJ CDS
+NC_016842	Geneious	gene	430211	430744	.	-	.	
+NC_016842	Geneious	CDS	430211	430744	.	-	0	Name=MBL fold metallo-hydrolase CDS
+NC_016842	Geneious	gene	430741	431175	.	-	.	
+NC_016842	Geneious	CDS	430741	431175	.	-	0	Name=pentapeptide repeat-containing protein CDS
+NC_016842	Geneious	gene	431198	432187	.	+	.	Name=murI gene
+NC_016842	Geneious	CDS	431198	432187	.	+	0	Name=murI CDS
+NC_016842	Geneious	gene	432291	432971	.	+	.	
+NC_016842	Geneious	CDS	432291	432971	.	+	0	Name=HAD family hydrolase CDS
+NC_016842	Geneious	gene	433067	436321	.	+	.	
+NC_016842	Geneious	CDS	433067	436321	.	+	0	Name=SpiroCoCo family coiled-coil protein CDS
+NC_016842	Geneious	gene	436363	436548	.	+	.	
+NC_016842	Geneious	CDS	436363	436548	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	436487	436816	.	+	.	Name=yajC gene
+NC_016842	Geneious	CDS	436487	436816	.	+	0	Name=yajC CDS
+NC_016842	Geneious	gene	436813	438564	.	+	.	Name=secD gene
+NC_016842	Geneious	CDS	436813	438564	.	+	0	Name=secD CDS
+NC_016842	Geneious	gene	438561	439823	.	+	.	Name=secF gene
+NC_016842	Geneious	CDS	438561	439823	.	+	0	Name=secF CDS
+NC_016842	Geneious	gene	439899	440204	.	-	.	
+NC_016842	Geneious	CDS	439899	440204	.	-	0	Name=PUR family DNA/RNA-binding protein CDS
+NC_016842	Geneious	gene	440223	442121	.	-	.	
+NC_016842	Geneious	CDS	440223	442121	.	-	0	Name=phosphoglucomutase CDS
+NC_016842	Geneious	gene	442179	443579	.	+	.	
+NC_016842	Geneious	CDS	442179	443579	.	+	0	Name=alanine/glycine:cation symporter family protein CDS
+NC_016842	Geneious	gene	444041	445399	.	-	.	Name=ffh gene
+NC_016842	Geneious	CDS	444041	445399	.	-	0	Name=ffh CDS
+NC_016842	Geneious	gene	445392	447071	.	-	.	Name=lnt gene
+NC_016842	Geneious	CDS	445392	447071	.	-	0	Name=lnt CDS
+NC_016842	Geneious	gene	447098	448291	.	+	.	
+NC_016842	Geneious	CDS	447098	448291	.	+	0	Name=galactokinase CDS
+NC_016842	Geneious	gene	448288	449058	.	+	.	Name=surE gene
+NC_016842	Geneious	CDS	448288	449058	.	+	0	Name=surE CDS
+NC_016842	Geneious	gene	449192	451243	.	+	.	
+NC_016842	Geneious	CDS	449192	451243	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	451227	452252	.	+	.	
+NC_016842	Geneious	CDS	451227	452252	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	452271	453077	.	+	.	
+NC_016842	Geneious	CDS	452271	453077	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	453203	453817	.	+	.	
+NC_016842	Geneious	CDS	453203	453817	.	+	0	Name=V-type ATP synthase subunit E CDS
+NC_016842	Geneious	gene	453817	454362	.	+	.	
+NC_016842	Geneious	CDS	453817	454362	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	454359	456128	.	+	.	
+NC_016842	Geneious	CDS	454359	456128	.	+	0	Name=V-type ATP synthase subunit A CDS
+NC_016842	Geneious	gene	456132	457424	.	+	.	
+NC_016842	Geneious	CDS	456132	457424	.	+	0	Name=V-type ATP synthase subunit B CDS
+NC_016842	Geneious	gene	457436	458056	.	+	.	
+NC_016842	Geneious	CDS	457436	458056	.	+	0	Name=V-type ATP synthase subunit D CDS
+NC_016842	Geneious	gene	458065	459921	.	+	.	
+NC_016842	Geneious	CDS	458065	459921	.	+	0	Name=V-type ATP synthase subunit I CDS
+NC_016842	Geneious	gene	459958	460380	.	+	.	
+NC_016842	Geneious	CDS	459958	460380	.	+	0	Name=ATP synthase subunit K CDS
+NC_016842	Geneious	gene	460414	461235	.	+	.	
+NC_016842	Geneious	CDS	460414	461235	.	+	0	Name=type III pantothenate kinase CDS
+NC_016842	Geneious	gene	461278	461829	.	+	.	
+NC_016842	Geneious	CDS	461278	461829	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	461884	463578	.	+	.	
+NC_016842	Geneious	CDS	461884	463578	.	+	0	Name=SPOR domain-containing protein CDS
+NC_016842	Geneious	gene	463675	464145	.	-	.	
+NC_016842	Geneious	CDS	463675	464145	.	-	0	Name=copper resistance protein NlpE CDS
+NC_016842	Geneious	gene	464276	465358	.	-	.	
+NC_016842	Geneious	CDS	464276	465358	.	-	0	Name=DHH family phosphoesterase CDS
+NC_016842	Geneious	gene	465324	465788	.	-	.	
+NC_016842	Geneious	CDS	465324	465788	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	465884	466693	.	+	.	
+NC_016842	Geneious	CDS	465884	466693	.	+	0	Name=non-canonical purine NTP pyrophosphatase CDS
+NC_016842	Geneious	gene	466819	467292	.	+	.	
+NC_016842	Geneious	CDS	466819	467292	.	+	0	Name=chemotaxis protein CheW CDS
+NC_016842	Geneious	gene	467382	468533	.	+	.	
+NC_016842	Geneious	CDS	467382	468533	.	+	0	Name=DegT/DnrJ/EryC1/StrS family aminotransferase CDS
+NC_016842	Geneious	gene	468530	469447	.	+	.	
+NC_016842	Geneious	CDS	468530	469447	.	+	0	Name=NAD(+)/NADH kinase CDS
+NC_016842	Geneious	gene	469440	471161	.	+	.	Name=recN gene
+NC_016842	Geneious	CDS	469440	471161	.	+	0	Name=recN CDS
+NC_016842	Geneious	gene	471103	471957	.	+	.	
+NC_016842	Geneious	CDS	471103	471957	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	472089	472991	.	+	.	
+NC_016842	Geneious	CDS	472089	472991	.	+	0	Name=M23 family metallopeptidase CDS
+NC_016842	Geneious	gene	473127	473756	.	+	.	
+NC_016842	Geneious	CDS	473127	473756	.	+	0	Name=DJ-1/PfpI family protein CDS
+NC_016842	Geneious	gene	473798	475012	.	+	.	Name=ispG gene
+NC_016842	Geneious	CDS	473798	475012	.	+	0	Name=ispG CDS
+NC_016842	Geneious	gene	475009	476133	.	+	.	
+NC_016842	Geneious	CDS	475009	476133	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	476191	477273	.	+	.	
+NC_016842	Geneious	CDS	476191	477273	.	+	0	Name=uracil phosphoribosyltransferase CDS
+NC_016842	Geneious	gene	477277	477867	.	+	.	
+NC_016842	Geneious	CDS	477277	477867	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	478004	480055	.	+	.	Name=fusA gene
+NC_016842	Geneious	CDS	478004	480055	.	+	0	Name=fusA CDS
+NC_016842	Geneious	gene	480044	480226	.	-	.	
+NC_016842	Geneious	CDS	480044	480226	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	480505	483780	.	+	.	Name=ileS gene
+NC_016842	Geneious	CDS	480505	483780	.	+	0	Name=ileS CDS
+NC_016842	Geneious	gene	483767	484630	.	+	.	
+NC_016842	Geneious	CDS	483767	484630	.	+	0	Name=TP0453 family outer membrane protein CDS
+NC_016842	Geneious	gene	484646	484996	.	+	.	
+NC_016842	Geneious	CDS	484646	484996	.	+	0	Name=double zinc ribbon domain-containing protein CDS
+NC_016842	Geneious	gene	484980	485669	.	-	.	
+NC_016842	Geneious	CDS	484980	485669	.	-	0	Name=response regulator CDS
+NC_016842	Geneious	gene	485666	486640	.	-	.	
+NC_016842	Geneious	CDS	485666	486640	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	486727	488043	.	-	.	
+NC_016842	Geneious	CDS	486727	488043	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	488111	489892	.	+	.	
+NC_016842	Geneious	CDS	488111	489892	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	489983	490561	.	+	.	Name=scpB gene
+NC_016842	Geneious	CDS	489983	490561	.	+	0	Name=scpB CDS
+NC_016842	Geneious	gene	490578	491375	.	+	.	
+NC_016842	Geneious	CDS	490578	491375	.	+	0	Name=pseudouridine synthase CDS
+NC_016842	Geneious	gene	491418	492125	.	+	.	
+NC_016842	Geneious	CDS	491418	492125	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	492153	492485	.	+	.	
+NC_016842	Geneious	CDS	492153	492485	.	+	0	Name=helix-turn-helix domain-containing protein CDS
+NC_016842	Geneious	gene	492568	493848	.	+	.	
+NC_016842	Geneious	CDS	492568	493848	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	493907	494659	.	-	.	Name=trmB gene
+NC_016842	Geneious	CDS	493907	494659	.	-	0	Name=trmB CDS
+NC_016842	Geneious	gene	494656	495528	.	-	.	
+NC_016842	Geneious	CDS	494656	495528	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	495461	496630	.	-	.	
+NC_016842	Geneious	CDS	495461	496630	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	496621	496869	.	+	.	
+NC_016842	Geneious	CDS	496621	496869	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	496839	498782	.	-	.	
+NC_016842	Geneious	CDS	496839	498782	.	-	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	498784	499773	.	-	.	
+NC_016842	Geneious	CDS	498784	499773	.	-	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	499765	501174	.	+	.	
+NC_016842	Geneious	CDS	499765	501174	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	501187	503262	.	-	.	Name=uvrC gene
+NC_016842	Geneious	CDS	501187	503262	.	-	0	Name=uvrC CDS
+NC_016842	Geneious	gene	503337	503981	.	-	.	
+NC_016842	Geneious	CDS	503337	503981	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	504046	504783	.	-	.	
+NC_016842	Geneious	CDS	504046	504783	.	-	0	Name=YebC/PmpR family DNA-binding transcriptional regulator CDS
+NC_016842	Geneious	gene	504924	506531	.	-	.	
+NC_016842	Geneious	CDS	504924	506531	.	-	0	Name=glucose-6-phosphate isomerase CDS
+NC_016842	Geneious	gene	506595	507941	.	-	.	
+NC_016842	Geneious	CDS	506595	507941	.	-	0	Name=acetate kinase CDS
+NC_016842	Geneious	gene	508030	508734	.	-	.	Name=pgl gene
+NC_016842	Geneious	CDS	508030	508734	.	-	0	Name=pgl CDS
+NC_016842	Geneious	gene	508795	510342	.	-	.	Name=zwf gene
+NC_016842	Geneious	CDS	508795	510342	.	-	0	Name=zwf CDS
+NC_016842	Geneious	gene	510415	511089	.	-	.	
+NC_016842	Geneious	CDS	510415	511089	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	511201	511689	.	+	.	
+NC_016842	Geneious	CDS	511201	511689	.	+	0	Name=DUF2062 domain-containing protein CDS
+NC_016842	Geneious	gene	512060	513970	.	+	.	
+NC_016842	Geneious	CDS	512060	513970	.	+	0	Name=TIGR03545 family protein CDS
+NC_016842	Geneious	gene	514036	515160	.	-	.	
+NC_016842	Geneious	CDS	514036	515160	.	-	0	Name=fibronectin type III domain-containing protein CDS
+NC_016842	Geneious	gene	515147	517162	.	-	.	
+NC_016842	Geneious	CDS	515147	517162	.	-	0	Name=FecR family protein CDS
+NC_016842	Geneious	gene	517056	518900	.	-	.	
+NC_016842	Geneious	CDS	517056	518900	.	-	0	Name=adenylate/guanylate cyclase domain-containing protein CDS
+NC_016842	Geneious	gene	518897	520492	.	-	.	
+NC_016842	Geneious	CDS	518897	520492	.	-	0	Name=P83/100 family protein CDS
+NC_016842	Geneious	gene	520581	522359	.	-	.	
+NC_016842	Geneious	CDS	520581	522359	.	-	0	Name=PQQ-binding-like beta-propeller repeat protein CDS
+NC_016842	Geneious	gene	522387	524924	.	+	.	
+NC_016842	Geneious	CDS	522387	524924	.	+	0	Name=methyl-accepting chemotaxis protein CDS
+NC_016842	Geneious	gene	525037	525111	.	+	.	
+NC_016842	Geneious	tRNA	525037	525111	.	+	.	Name=tRNA-Thr
+NC_016842	Geneious	gene	525121	525202	.	+	.	
+NC_016842	Geneious	tRNA	525121	525202	.	+	.	Name=tRNA-Tyr
+NC_016842	Geneious	gene	525378	526346	.	+	.	
+NC_016842	Geneious	CDS	525378	526346	.	+	0	Name=MBL fold metallo-hydrolase CDS
+NC_016842	Geneious	gene	526343	526531	.	+	.	
+NC_016842	Geneious	CDS	526343	526531	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	526538	527593	.	+	.	Name=mltG gene
+NC_016842	Geneious	CDS	526538	527593	.	+	0	Name=mltG CDS
+NC_016842	Geneious	gene	527597	529414	.	+	.	Name=dnaG gene
+NC_016842	Geneious	CDS	527597	529414	.	+	0	Name=dnaG CDS
+NC_016842	Geneious	gene	529411	531246	.	+	.	Name=rpoD gene
+NC_016842	Geneious	CDS	529411	531246	.	+	0	Name=rpoD CDS
+NC_016842	Geneious	gene	531256	532077	.	+	.	
+NC_016842	Geneious	CDS	531256	532077	.	+	0	Name=zinc ribbon domain-containing protein CDS
+NC_016842	Geneious	gene	532098	532440	.	+	.	Name=rnpB gene
+NC_016842	Geneious	ncRNA	532098	532440	.	+	.	Name=rnpB ncRNA
+NC_016842	Geneious	gene	532521	533396	.	+	.	
+NC_016842	Geneious	CDS	532521	533396	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	533409	534443	.	+	.	
+NC_016842	Geneious	CDS	533409	534443	.	+	0	Name=rod shape-determining protein CDS
+NC_016842	Geneious	gene	534448	535311	.	+	.	Name=mreC gene
+NC_016842	Geneious	CDS	534448	535311	.	+	0	Name=mreC CDS
+NC_016842	Geneious	gene	535308	535814	.	+	.	Name=mreD gene
+NC_016842	Geneious	CDS	535308	535814	.	+	0	Name=mreD CDS
+NC_016842	Geneious	gene	535815	537689	.	+	.	Name=mrdA gene
+NC_016842	Geneious	CDS	535815	537689	.	+	0	Name=mrdA CDS
+NC_016842	Geneious	gene	537686	538987	.	+	.	Name=rodA gene
+NC_016842	Geneious	CDS	537686	538987	.	+	0	Name=rodA CDS
+NC_016842	Geneious	gene	539013	539909	.	+	.	
+NC_016842	Geneious	CDS	539013	539909	.	+	0	Name=ankyrin repeat domain-containing protein CDS
+NC_016842	Geneious	gene	539888	540451	.	+	.	
+NC_016842	Geneious	CDS	539888	540451	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	540582	541916	.	-	.	
+NC_016842	Geneious	CDS	540582	541916	.	-	0	Name=hexokinase family protein CDS
+NC_016842	Geneious	gene	542276	542348	.	+	.	
+NC_016842	Geneious	tRNA	542276	542348	.	+	.	Name=tRNA-Lys
+NC_016842	Geneious	gene	542408	542488	.	+	.	
+NC_016842	Geneious	tRNA	542408	542488	.	+	.	Name=tRNA-Leu
+NC_016842	Geneious	gene	542499	542570	.	+	.	
+NC_016842	Geneious	tRNA	542499	542570	.	+	.	Name=tRNA-Gly
+NC_016842	Geneious	gene	542651	543979	.	+	.	Name=tig gene
+NC_016842	Geneious	CDS	542651	543979	.	+	0	Name=tig CDS
+NC_016842	Geneious	gene	543972	544583	.	+	.	
+NC_016842	Geneious	CDS	543972	544583	.	+	0	Name=ATP-dependent Clp protease proteolytic subunit CDS
+NC_016842	Geneious	gene	544570	545817	.	+	.	Name=clpX gene
+NC_016842	Geneious	CDS	544570	545817	.	+	0	Name=clpX CDS
+NC_016842	Geneious	gene	545914	546480	.	+	.	
+NC_016842	Geneious	CDS	545914	546480	.	+	0	Name=redoxin domain-containing protein CDS
+NC_016842	Geneious	gene	546661	548478	.	-	.	Name=lepA gene
+NC_016842	Geneious	CDS	546661	548478	.	-	0	Name=lepA CDS
+NC_016842	Geneious	gene	548608	549147	.	+	.	
+NC_016842	Geneious	CDS	548608	549147	.	+	0	Name=CarD family transcriptional regulator CDS
+NC_016842	Geneious	gene	549144	550391	.	+	.	Name=ispF gene
+NC_016842	Geneious	CDS	549144	550391	.	+	0	Name=ispF CDS
+NC_016842	Geneious	gene	550465	551865	.	+	.	Name=trkA gene
+NC_016842	Geneious	CDS	550465	551865	.	+	0	Name=trkA CDS
+NC_016842	Geneious	gene	551979	554861	.	+	.	Name=uvrA gene
+NC_016842	Geneious	CDS	551979	554861	.	+	0	Name=uvrA CDS
+NC_016842	Geneious	gene	554858	557833	.	+	.	Name=lptD gene
+NC_016842	Geneious	CDS	554858	557833	.	+	0	Name=lptD CDS
+NC_016842	Geneious	gene	557847	559427	.	-	.	Name=murJ gene
+NC_016842	Geneious	CDS	557847	559427	.	-	0	Name=murJ CDS
+NC_016842	Geneious	gene	559424	560014	.	-	.	Name=ruvC gene
+NC_016842	Geneious	CDS	559424	560014	.	-	0	Name=ruvC CDS
+NC_016842	Geneious	gene	559996	560688	.	-	.	
+NC_016842	Geneious	CDS	559996	560688	.	-	0	Name=thiamine diphosphokinase CDS
+NC_016842	Geneious	gene	560685	562061	.	-	.	
+NC_016842	Geneious	CDS	560685	562061	.	-	0	Name=sigma-54-dependent transcriptional regulator CDS
+NC_016842	Geneious	gene	562071	562427	.	-	.	
+NC_016842	Geneious	CDS	562071	562427	.	-	0	Name=ATP-binding protein CDS
+NC_016842	Geneious	gene	562436	563260	.	-	.	
+NC_016842	Geneious	CDS	562436	563260	.	-	0	Name=histidine kinase dimerization/phospho-acceptor domain-containing protein CDS
+NC_016842	Geneious	gene	563257	564528	.	-	.	
+NC_016842	Geneious	CDS	563257	564528	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	564539	565018	.	-	.	
+NC_016842	Geneious	CDS	564539	565018	.	-	0	Name=CvpA family protein CDS
+NC_016842	Geneious	gene	565015	566169	.	-	.	Name=murG gene
+NC_016842	Geneious	CDS	565015	566169	.	-	0	Name=murG CDS
+NC_016842	Geneious	gene	566173	568818	.	-	.	Name=lon gene
+NC_016842	Geneious	CDS	566173	568818	.	-	0	Name=lon CDS
+NC_016842	Geneious	gene	568954	569517	.	+	.	Name=efp gene
+NC_016842	Geneious	CDS	568954	569517	.	+	0	Name=efp CDS
+NC_016842	Geneious	gene	569665	571671	.	+	.	
+NC_016842	Geneious	CDS	569665	571671	.	+	0	Name=helicase-related protein CDS
+NC_016842	Geneious	gene	571719	572348	.	-	.	
+NC_016842	Geneious	CDS	571719	572348	.	-	0	Name=V-type ATP synthase subunit D CDS
+NC_016842	Geneious	gene	572443	573885	.	-	.	
+NC_016842	Geneious	CDS	572443	573885	.	-	0	Name=V-type ATP synthase subunit B CDS
+NC_016842	Geneious	gene	573882	575699	.	-	.	
+NC_016842	Geneious	CDS	573882	575699	.	-	0	Name=V-type ATP synthase subunit A CDS
+NC_016842	Geneious	gene	575696	576322	.	-	.	
+NC_016842	Geneious	CDS	575696	576322	.	-	0	Name=ATPase CDS
+NC_016842	Geneious	gene	576328	576645	.	-	.	
+NC_016842	Geneious	CDS	576328	576645	.	-	0	Name=V-type ATP synthase subunit F CDS
+NC_016842	Geneious	gene	576668	576964	.	-	.	
+NC_016842	Geneious	CDS	576668	576964	.	-	0	Name=ATP synthase subunit C CDS
+NC_016842	Geneious	gene	576966	578651	.	-	.	
+NC_016842	Geneious	CDS	576966	578651	.	-	0	Name=V-type ATP synthase subunit I CDS
+NC_016842	Geneious	gene	578644	579669	.	-	.	
+NC_016842	Geneious	CDS	578644	579669	.	-	0	Name=V0D/AC39 family V-type ATPase subunit CDS
+NC_016842	Geneious	gene	579673	579885	.	-	.	
+NC_016842	Geneious	CDS	579673	579885	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	580014	580430	.	-	.	Name=secG gene
+NC_016842	Geneious	CDS	580014	580430	.	-	0	Name=secG CDS
+NC_016842	Geneious	gene	580580	581329	.	-	.	Name=tpiA gene
+NC_016842	Geneious	CDS	580580	581329	.	-	0	Name=tpiA CDS
+NC_016842	Geneious	gene	581480	582739	.	-	.	
+NC_016842	Geneious	CDS	581480	582739	.	-	0	Name=phosphoglycerate kinase CDS
+NC_016842	Geneious	gene	582711	582932	.	+	.	
+NC_016842	Geneious	CDS	582711	582932	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	582954	583026	.	+	.	
+NC_016842	Geneious	tRNA	582954	583026	.	+	.	Name=tRNA-Asn
+NC_016842	Geneious	gene	583219	583584	.	+	.	
+NC_016842	Geneious	CDS	583219	583584	.	+	0	Name=anti-sigma factor antagonist CDS
+NC_016842	Geneious	gene	583714	584673	.	+	.	Name=era gene
+NC_016842	Geneious	CDS	583714	584673	.	+	0	Name=era CDS
+NC_016842	Geneious	gene	584670	586391	.	-	.	
+NC_016842	Geneious	CDS	584670	586391	.	-	0	Name=diphosphate--fructose-6-phosphate 1-phosphotransferase CDS
+NC_016842	Geneious	gene	586451	587134	.	-	.	Name=ruvA gene
+NC_016842	Geneious	CDS	586451	587134	.	-	0	Name=ruvA CDS
+NC_016842	Geneious	gene	587176	589050	.	-	.	
+NC_016842	Geneious	CDS	587176	589050	.	-	0	Name=endonuclease/exonuclease/phosphatase family protein CDS
+NC_016842	Geneious	gene	589075	590139	.	-	.	
+NC_016842	Geneious	CDS	589075	590139	.	-	0	Name=galactose ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	590224	591939	.	-	.	
+NC_016842	Geneious	CDS	590224	591939	.	-	0	Name=S1C family serine protease CDS
+NC_016842	Geneious	gene	591936	593066	.	-	.	Name=ispH gene
+NC_016842	Geneious	CDS	591936	593066	.	-	0	Name=ispH CDS
+NC_016842	Geneious	gene	593210	594508	.	+	.	
+NC_016842	Geneious	CDS	593210	594508	.	+	0	Name=UPF0164 family protein CDS
+NC_016842	Geneious	gene	594658	597102	.	+	.	
+NC_016842	Geneious	CDS	594658	597102	.	+	0	Name=ATP-dependent Clp protease ATP-binding subunit CDS
+NC_016842	Geneious	gene	597143	598630	.	-	.	Name=mnmE gene
+NC_016842	Geneious	CDS	597143	598630	.	-	0	Name=mnmE CDS
+NC_016842	Geneious	gene	598634	599722	.	-	.	
+NC_016842	Geneious	CDS	598634	599722	.	-	0	Name=phosphatase PAP2 family protein CDS
+NC_016842	Geneious	gene	599735	600268	.	-	.	
+NC_016842	Geneious	CDS	599735	600268	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	600344	600415	.	-	.	
+NC_016842	Geneious	tRNA	600344	600415	.	-	.	Name=tRNA-Cys
+NC_016842	Geneious	gene	600512	601723	.	+	.	
+NC_016842	Geneious	CDS	600512	601723	.	+	0	Name=AI-2E family transporter CDS
+NC_016842	Geneious	gene	601758	602426	.	+	.	
+NC_016842	Geneious	CDS	601758	602426	.	+	0	Name=HAD family hydrolase CDS
+NC_016842	Geneious	gene	602500	603681	.	-	.	
+NC_016842	Geneious	CDS	602500	603681	.	-	0	Name=dicarboxylate/amino acid:cation symporter CDS
+NC_016842	Geneious	gene	603904	604908	.	-	.	Name=asnA gene
+NC_016842	Geneious	CDS	603904	604908	.	-	0	Name=asnA CDS
+NC_016842	Geneious	gene	605001	605714	.	+	.	
+NC_016842	Geneious	CDS	605001	605714	.	+	0	Name=DUF1007 family protein CDS
+NC_016842	Geneious	gene	605744	606652	.	+	.	
+NC_016842	Geneious	CDS	605744	606652	.	+	0	Name=nickel/cobalt transporter CDS
+NC_016842	Geneious	gene	606714	607919	.	+	.	Name=thiI gene
+NC_016842	Geneious	CDS	606714	607919	.	+	0	Name=thiI CDS
+NC_016842	Geneious	gene	607972	609957	.	-	.	Name=tkt gene
+NC_016842	Geneious	CDS	607972	609957	.	-	0	Name=tkt CDS
+NC_016842	Geneious	gene	610068	610928	.	-	.	
+NC_016842	Geneious	CDS	610068	610928	.	-	0	Name=TPM domain-containing protein CDS
+NC_016842	Geneious	gene	611090	612226	.	+	.	
+NC_016842	Geneious	CDS	611090	612226	.	+	0	Name=N-acetylneuraminate synthase family protein CDS
+NC_016842	Geneious	gene	612217	612630	.	+	.	
+NC_016842	Geneious	CDS	612217	612630	.	+	0	Name=J domain-containing protein CDS
+NC_016842	Geneious	gene	612627	614663	.	+	.	
+NC_016842	Geneious	CDS	612627	614663	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	614545	615762	.	-	.	
+NC_016842	Geneious	CDS	614545	615762	.	-	0	Name=DUF459 domain-containing protein CDS
+NC_016842	Geneious	gene	615776	617263	.	-	.	
+NC_016842	Geneious	CDS	615776	617263	.	-	0	Name=MBOAT family O-acyltransferase CDS
+NC_016842	Geneious	gene	617295	617894	.	-	.	
+NC_016842	Geneious	CDS	617295	617894	.	-	0	Name=periplasmic-type flagellar collar protein FlbB CDS
+NC_016842	Geneious	gene	617994	618626	.	-	.	
+NC_016842	Geneious	CDS	617994	618626	.	-	0	Name=bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase CDS
+NC_016842	Geneious	gene	618748	621072	.	-	.	
+NC_016842	Geneious	CDS	618748	621072	.	-	0	Name=aminopeptidase P family protein CDS
+NC_016842	Geneious	gene	621097	621930	.	-	.	
+NC_016842	Geneious	CDS	621097	621930	.	-	0	Name=TPM domain-containing protein CDS
+NC_016842	Geneious	gene	621969	622634	.	-	.	
+NC_016842	Geneious	CDS	621969	622634	.	-	0	Name=LemA family protein CDS
+NC_016842	Geneious	gene	622652	623734	.	-	.	
+NC_016842	Geneious	CDS	622652	623734	.	-	0	Name=FMN-binding protein CDS
+NC_016842	Geneious	gene	623844	625148	.	-	.	
+NC_016842	Geneious	CDS	623844	625148	.	-	0	Name=penicillin-binding Tp47 domain A-containing protein CDS
+NC_016842	Geneious	gene	625260	627317	.	+	.	
+NC_016842	Geneious	CDS	625260	627317	.	+	0	Name=phosphoenolpyruvate--protein phosphotransferase CDS
+NC_016842	Geneious	gene	627365	628487	.	+	.	Name=prfB gene
+NC_016842	Geneious	CDS	627365	627436	.	+	0	Name=prfB CDS;ID=FzBaLyrtnVjHP7Eq0ngxeZ3ii5A.1750971180655.0
+NC_016842	Geneious	CDS	627438	628487	.	+	0	Name=prfB CDS;ID=FzBaLyrtnVjHP7Eq0ngxeZ3ii5A.1750971180655.0
+NC_016842	Geneious	gene	628379	630235	.	+	.	
+NC_016842	Geneious	CDS	628379	630235	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	630248	631129	.	+	.	Name=ftsY gene
+NC_016842	Geneious	CDS	630248	631129	.	+	0	Name=ftsY CDS
+NC_016842	Geneious	gene	631126	631902	.	+	.	
+NC_016842	Geneious	CDS	631126	631902	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	631895	633184	.	+	.	
+NC_016842	Geneious	CDS	631895	633184	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	633177	633857	.	+	.	
+NC_016842	Geneious	CDS	633177	633857	.	+	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	633854	635341	.	+	.	
+NC_016842	Geneious	CDS	633854	635341	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	635437	636846	.	+	.	
+NC_016842	Geneious	CDS	635437	636846	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	636839	638482	.	+	.	
+NC_016842	Geneious	CDS	636839	638482	.	+	0	Name=peptide ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	638571	641207	.	+	.	Name=leuS gene
+NC_016842	Geneious	CDS	638571	641207	.	+	0	Name=leuS CDS
+NC_016842	Geneious	gene	641187	642209	.	-	.	Name=holA gene
+NC_016842	Geneious	CDS	641187	642209	.	-	0	Name=holA CDS
+NC_016842	Geneious	gene	642295	642561	.	-	.	
+NC_016842	Geneious	CDS	642295	642561	.	-	0	Name=HPr family phosphocarrier protein CDS
+NC_016842	Geneious	gene	642606	643595	.	-	.	Name=hprK gene
+NC_016842	Geneious	CDS	642606	643595	.	-	0	Name=hprK CDS
+NC_016842	Geneious	gene	643744	643816	.	+	.	
+NC_016842	Geneious	tRNA	643744	643816	.	+	.	Name=tRNA-Arg
+NC_016842	Geneious	gene	643827	643901	.	-	.	
+NC_016842	Geneious	tRNA	643827	643901	.	-	.	Name=tRNA-Pro
+NC_016842	Geneious	gene	643953	644026	.	-	.	
+NC_016842	Geneious	tRNA	643953	644026	.	-	.	Name=tRNA-Asp
+NC_016842	Geneious	gene	644096	644168	.	-	.	
+NC_016842	Geneious	tRNA	644096	644168	.	-	.	Name=tRNA-Met
+NC_016842	Geneious	gene	644328	645830	.	+	.	
+NC_016842	Geneious	CDS	644328	645830	.	+	0	Name=M15 family metallopeptidase CDS
+NC_016842	Geneious	gene	645767	647800	.	+	.	
+NC_016842	Geneious	CDS	645767	647800	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	647835	648494	.	-	.	
+NC_016842	Geneious	CDS	647835	648494	.	-	0	Name=DUF2147 domain-containing protein CDS
+NC_016842	Geneious	gene	648522	649157	.	-	.	
+NC_016842	Geneious	CDS	648522	649157	.	-	0	Name=adenylate kinase family protein CDS
+NC_016842	Geneious	gene	649181	650293	.	-	.	Name=pcnB gene
+NC_016842	Geneious	CDS	649181	650293	.	-	0	Name=pcnB CDS
+NC_016842	Geneious	gene	650401	652464	.	-	.	
+NC_016842	Geneious	CDS	650401	652464	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	652502	653158	.	-	.	
+NC_016842	Geneious	CDS	652502	653158	.	-	0	Name=CpXC domain-containing protein CDS
+NC_016842	Geneious	gene	653165	654517	.	-	.	Name=rseP gene
+NC_016842	Geneious	CDS	653165	654517	.	-	0	Name=rseP CDS
+NC_016842	Geneious	gene	654514	655644	.	-	.	Name=dxr gene
+NC_016842	Geneious	CDS	654514	655644	.	-	0	Name=dxr CDS
+NC_016842	Geneious	gene	655641	656504	.	-	.	
+NC_016842	Geneious	CDS	655641	656504	.	-	0	Name=phosphatidate cytidylyltransferase CDS
+NC_016842	Geneious	gene	656501	657187	.	-	.	
+NC_016842	Geneious	CDS	656501	657187	.	-	0	Name=di-trans%2Cpoly-cis-decaprenylcistransferase CDS
+NC_016842	Geneious	gene	657193	657744	.	-	.	Name=frr gene
+NC_016842	Geneious	CDS	657193	657744	.	-	0	Name=frr CDS
+NC_016842	Geneious	gene	657848	658720	.	-	.	Name=tsf gene
+NC_016842	Geneious	CDS	657848	658720	.	-	0	Name=tsf CDS
+NC_016842	Geneious	gene	658811	659686	.	-	.	Name=rpsB gene
+NC_016842	Geneious	CDS	658811	659686	.	-	0	Name=rpsB CDS
+NC_016842	Geneious	gene	659884	659957	.	+	.	
+NC_016842	Geneious	tRNA	659884	659957	.	+	.	Name=tRNA-Arg
+NC_016842	Geneious	gene	660052	660942	.	-	.	
+NC_016842	Geneious	CDS	660052	660942	.	-	0	Name=HEAT repeat domain-containing protein CDS
+NC_016842	Geneious	gene	661260	662831	.	+	.	Name=asnS gene
+NC_016842	Geneious	CDS	661260	662831	.	+	0	Name=asnS CDS
+NC_016842	Geneious	gene	662841	664922	.	+	.	
+NC_016842	Geneious	CDS	662841	664922	.	+	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	665064	665843	.	+	.	Name=sufC gene
+NC_016842	Geneious	CDS	665064	665843	.	+	0	Name=sufC CDS
+NC_016842	Geneious	gene	665924	667363	.	+	.	Name=sufB gene
+NC_016842	Geneious	CDS	665924	667363	.	+	0	Name=sufB CDS
+NC_016842	Geneious	gene	667390	668538	.	+	.	Name=sufD gene
+NC_016842	Geneious	CDS	667390	668538	.	+	0	Name=sufD CDS
+NC_016842	Geneious	gene	668535	669749	.	+	.	
+NC_016842	Geneious	CDS	668535	669749	.	+	0	Name=cysteine desulfurase CDS
+NC_016842	Geneious	gene	669800	670243	.	+	.	Name=sufU gene
+NC_016842	Geneious	CDS	669800	670243	.	+	0	Name=sufU CDS
+NC_016842	Geneious	gene	670264	671028	.	+	.	Name=rpiA gene
+NC_016842	Geneious	CDS	670264	671028	.	+	0	Name=rpiA CDS
+NC_016842	Geneious	gene	671055	671357	.	-	.	
+NC_016842	Geneious	CDS	671055	671357	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	671398	671787	.	-	.	
+NC_016842	Geneious	CDS	671398	671787	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	671843	672550	.	-	.	
+NC_016842	Geneious	CDS	671843	672550	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	672649	674478	.	-	.	
+NC_016842	Geneious	CDS	672649	674478	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	674537	676807	.	-	.	
+NC_016842	Geneious	CDS	674537	676807	.	-	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	676867	678648	.	-	.	
+NC_016842	Geneious	CDS	676867	678648	.	-	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	679034	680404	.	+	.	
+NC_016842	Geneious	CDS	679034	680404	.	+	0	Name=transglycosylase SLT domain-containing protein CDS
+NC_016842	Geneious	gene	680408	681838	.	+	.	
+NC_016842	Geneious	CDS	680408	681838	.	+	0	Name=OmpA family protein CDS
+NC_016842	Geneious	gene	681838	682590	.	+	.	
+NC_016842	Geneious	CDS	681838	682590	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	682587	683762	.	+	.	
+NC_016842	Geneious	CDS	682587	683762	.	+	0	Name=exonuclease SbcCD subunit D CDS
+NC_016842	Geneious	gene	683759	686902	.	+	.	Name=sbcC gene
+NC_016842	Geneious	CDS	683759	686902	.	+	0	Name=sbcC CDS
+NC_016842	Geneious	gene	686899	688380	.	+	.	Name=pncB gene
+NC_016842	Geneious	CDS	686899	688380	.	+	0	Name=pncB CDS
+NC_016842	Geneious	gene	688551	689375	.	+	.	
+NC_016842	Geneious	CDS	688551	689375	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	689545	690456	.	+	.	
+NC_016842	Geneious	CDS	689545	690456	.	+	0	Name=CheR family methyltransferase CDS
+NC_016842	Geneious	gene	690504	691715	.	+	.	
+NC_016842	Geneious	CDS	690504	691715	.	+	0	Name=protein-glutamate methylesterase/protein-glutamine glutaminase CDS
+NC_016842	Geneious	gene	691820	692833	.	+	.	Name=trpS gene
+NC_016842	Geneious	CDS	691820	692833	.	+	0	Name=trpS CDS
+NC_016842	Geneious	gene	692974	693849	.	+	.	
+NC_016842	Geneious	CDS	692974	693849	.	+	0	Name=bifunctional methionine sulfoxide reductase B/A protein CDS
+NC_016842	Geneious	gene	693968	696439	.	+	.	Name=ligA gene
+NC_016842	Geneious	CDS	693968	696439	.	+	0	Name=ligA CDS
+NC_016842	Geneious	gene	696474	697244	.	-	.	Name=recO gene
+NC_016842	Geneious	CDS	696474	697244	.	-	0	Name=recO CDS
+NC_016842	Geneious	gene	697282	698232	.	-	.	Name=miaA gene
+NC_016842	Geneious	CDS	697282	698232	.	-	0	Name=miaA CDS
+NC_016842	Geneious	gene	698456	698890	.	-	.	
+NC_016842	Geneious	CDS	698456	698890	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	698971	699044	.	-	.	
+NC_016842	Geneious	tRNA	698971	699044	.	-	.	Name=tRNA-Arg
+NC_016842	Geneious	gene	699059	699130	.	-	.	
+NC_016842	Geneious	tRNA	699059	699130	.	-	.	Name=tRNA-His
+NC_016842	Geneious	gene	699267	699339	.	+	.	
+NC_016842	Geneious	tRNA	699267	699339	.	+	.	Name=tRNA-Phe
+NC_016842	Geneious	gene	699340	701274	.	+	.	
+NC_016842	Geneious	CDS	699340	701274	.	+	0	Name=methyl-accepting chemotaxis protein CDS
+NC_016842	Geneious	gene	701298	703142	.	+	.	
+NC_016842	Geneious	CDS	701298	703142	.	+	0	Name=methyl-accepting chemotaxis protein CDS
+NC_016842	Geneious	gene	703160	704488	.	-	.	Name=hisS gene
+NC_016842	Geneious	CDS	703160	704488	.	-	0	Name=hisS CDS
+NC_016842	Geneious	gene	704629	706389	.	+	.	
+NC_016842	Geneious	CDS	704629	706389	.	+	0	Name=phospho-sugar mutase CDS
+NC_016842	Geneious	gene	706386	707033	.	+	.	
+NC_016842	Geneious	CDS	706386	707033	.	+	0	Name=exonuclease domain-containing protein CDS
+NC_016842	Geneious	gene	707030	708616	.	-	.	Name=lysS gene
+NC_016842	Geneious	CDS	707030	708616	.	-	0	Name=lysS CDS
+NC_016842	Geneious	gene	708882	710150	.	-	.	
+NC_016842	Geneious	CDS	708882	710150	.	-	0	Name=LIC 12708 family protein CDS
+NC_016842	Geneious	gene	710116	711396	.	-	.	Name=serS gene
+NC_016842	Geneious	CDS	710116	711396	.	-	0	Name=serS CDS
+NC_016842	Geneious	gene	711446	713494	.	-	.	
+NC_016842	Geneious	CDS	711446	713494	.	-	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	713439	714236	.	-	.	
+NC_016842	Geneious	CDS	713439	714236	.	-	0	Name=hemolysin family protein CDS
+NC_016842	Geneious	gene	714224	714706	.	-	.	Name=ybeY gene
+NC_016842	Geneious	CDS	714224	714706	.	-	0	Name=ybeY CDS
+NC_016842	Geneious	gene	714712	717279	.	-	.	
+NC_016842	Geneious	CDS	714712	717279	.	-	0	Name=HD family phosphohydrolase CDS
+NC_016842	Geneious	gene	717301	718440	.	+	.	
+NC_016842	Geneious	CDS	717301	718440	.	+	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	718437	719336	.	+	.	
+NC_016842	Geneious	CDS	718437	719336	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	719329	720147	.	+	.	
+NC_016842	Geneious	CDS	719329	720147	.	+	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	720183	721229	.	+	.	
+NC_016842	Geneious	CDS	720183	721229	.	+	0	Name=extracellular solute-binding protein CDS
+NC_016842	Geneious	gene	721284	721505	.	-	.	Name=csrA gene
+NC_016842	Geneious	CDS	721284	721505	.	-	0	Name=csrA CDS
+NC_016842	Geneious	gene	721499	721951	.	-	.	
+NC_016842	Geneious	CDS	721499	721951	.	-	0	Name=flagellar assembly protein FliW CDS
+NC_016842	Geneious	gene	721970	723220	.	-	.	
+NC_016842	Geneious	CDS	721970	723220	.	-	0	Name=flagellar hook-associated protein 3 CDS
+NC_016842	Geneious	gene	723254	725131	.	-	.	Name=flgK gene
+NC_016842	Geneious	CDS	723254	725131	.	-	0	Name=flgK CDS
+NC_016842	Geneious	gene	725237	725749	.	-	.	
+NC_016842	Geneious	CDS	725237	725749	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	725872	726870	.	-	.	
+NC_016842	Geneious	CDS	725872	726870	.	-	0	Name=class II fructose-bisphosphate aldolase CDS
+NC_016842	Geneious	gene	727137	727865	.	+	.	
+NC_016842	Geneious	CDS	727137	727865	.	+	0	Name=flagellar filament outer layer protein FlaA CDS
+NC_016842	Geneious	gene	727862	728587	.	+	.	
+NC_016842	Geneious	CDS	727862	728587	.	+	0	Name=flagellar filament outer layer protein FlaA CDS
+NC_016842	Geneious	gene	728605	729360	.	-	.	
+NC_016842	Geneious	CDS	728605	729360	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	729357	729650	.	-	.	
+NC_016842	Geneious	CDS	729357	729650	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	729694	731349	.	-	.	
+NC_016842	Geneious	CDS	729694	731349	.	-	0	Name=nucleoside kinase CDS
+NC_016842	Geneious	gene	731433	731505	.	+	.	
+NC_016842	Geneious	tRNA	731433	731505	.	+	.	Name=tRNA-Pro
+NC_016842	Geneious	gene	731592	732194	.	-	.	
+NC_016842	Geneious	CDS	731592	732194	.	-	0	Name=YggT family protein CDS
+NC_016842	Geneious	gene	732191	735703	.	-	.	Name=dnaE gene
+NC_016842	Geneious	CDS	732191	735703	.	-	0	Name=dnaE CDS
+NC_016842	Geneious	gene	735822	735895	.	+	.	
+NC_016842	Geneious	tRNA	735822	735895	.	+	.	Name=tRNA-Arg
+NC_016842	Geneious	gene	735857	737047	.	-	.	
+NC_016842	Geneious	CDS	735857	737047	.	-	0	Name=D-alanine--D-alanine ligase family protein CDS
+NC_016842	Geneious	gene	737049	738050	.	-	.	
+NC_016842	Geneious	CDS	737049	738050	.	-	0	Name=CDP-alcohol phosphatidyltransferase family protein CDS
+NC_016842	Geneious	gene	738114	739502	.	-	.	
+NC_016842	Geneious	CDS	738114	739502	.	-	0	Name=glycine--tRNA ligase CDS
+NC_016842	Geneious	gene	739637	741250	.	-	.	Name=gltX gene
+NC_016842	Geneious	CDS	739637	741250	.	-	0	Name=gltX CDS
+NC_016842	Geneious	gene	741428	742036	.	+	.	
+NC_016842	Geneious	CDS	741428	742036	.	+	0	Name=Smr/MutS family protein CDS
+NC_016842	Geneious	gene	742042	743040	.	+	.	
+NC_016842	Geneious	CDS	742042	743040	.	+	0	Name=TraB/GumN family protein CDS
+NC_016842	Geneious	gene	743052	743330	.	-	.	
+NC_016842	Geneious	CDS	743052	743330	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	743352	743960	.	-	.	
+NC_016842	Geneious	CDS	743352	743960	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	744050	744121	.	+	.	
+NC_016842	Geneious	tRNA	744050	744121	.	+	.	Name=tRNA-Val
+NC_016842	Geneious	gene	744214	745137	.	+	.	
+NC_016842	Geneious	CDS	744214	745137	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	745134	745451	.	+	.	
+NC_016842	Geneious	CDS	745134	745451	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	745492	746550	.	-	.	Name=tsaD gene
+NC_016842	Geneious	CDS	745492	746550	.	-	0	Name=tsaD CDS
+NC_016842	Geneious	gene	746601	747734	.	-	.	Name=alr gene
+NC_016842	Geneious	CDS	746601	747734	.	-	0	Name=alr CDS
+NC_016842	Geneious	gene	747763	748365	.	-	.	
+NC_016842	Geneious	CDS	747763	748365	.	-	0	Name=SAM-dependent methyltransferase CDS
+NC_016842	Geneious	gene	748458	749552	.	+	.	
+NC_016842	Geneious	CDS	748458	749552	.	+	0	Name=polyprenyl synthetase family protein CDS
+NC_016842	Geneious	gene	749845	751056	.	+	.	
+NC_016842	Geneious	CDS	749845	751056	.	+	0	Name=substrate-binding domain-containing protein CDS
+NC_016842	Geneious	gene	751176	752666	.	+	.	
+NC_016842	Geneious	CDS	751176	752666	.	+	0	Name=sugar ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	752681	754276	.	+	.	
+NC_016842	Geneious	CDS	752681	754276	.	+	0	Name=galactoside ABC transporter permease CDS
+NC_016842	Geneious	gene	754404	756464	.	-	.	Name=recG gene
+NC_016842	Geneious	CDS	754404	756464	.	-	0	Name=recG CDS
+NC_016842	Geneious	gene	756520	757533	.	-	.	
+NC_016842	Geneious	CDS	756520	757533	.	-	0	Name=S66 family peptidase CDS
+NC_016842	Geneious	gene	757534	758916	.	-	.	Name=der gene
+NC_016842	Geneious	CDS	757534	758916	.	-	0	Name=der CDS
+NC_016842	Geneious	gene	758952	759503	.	-	.	
+NC_016842	Geneious	CDS	758952	759503	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	759526	760284	.	-	.	
+NC_016842	Geneious	CDS	759526	760284	.	-	0	Name=segregation and condensation protein A CDS
+NC_016842	Geneious	gene	760312	761535	.	-	.	Name=recA gene
+NC_016842	Geneious	CDS	760312	761535	.	-	0	Name=recA CDS
+NC_016842	Geneious	gene	761604	761677	.	-	.	
+NC_016842	Geneious	tRNA	761604	761677	.	-	.	Name=tRNA-Ile
+NC_016842	Geneious	gene	761796	763118	.	-	.	
+NC_016842	Geneious	CDS	761796	763118	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	763278	763955	.	+	.	
+NC_016842	Geneious	CDS	763278	763955	.	+	0	Name=5-formyltetrahydrofolate cyclo-ligase CDS
+NC_016842	Geneious	gene	764043	765836	.	+	.	
+NC_016842	Geneious	CDS	764043	765836	.	+	0	Name=ATP-grasp domain-containing protein CDS
+NC_016842	Geneious	gene	765824	766660	.	-	.	
+NC_016842	Geneious	CDS	765824	766660	.	-	0	Name=cysteine hydrolase family protein CDS
+NC_016842	Geneious	gene	766722	767357	.	-	.	
+NC_016842	Geneious	CDS	766722	767357	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	767361	767906	.	-	.	
+NC_016842	Geneious	CDS	767361	767906	.	-	0	Name=DUF2715 domain-containing protein CDS
+NC_016842	Geneious	gene	768019	768411	.	-	.	
+NC_016842	Geneious	CDS	768019	768411	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	768549	768752	.	-	.	
+NC_016842	Geneious	CDS	768549	768752	.	-	0	Name=DNA-directed RNA polymerase subunit omega CDS
+NC_016842	Geneious	gene	768832	768905	.	+	.	
+NC_016842	Geneious	tRNA	768832	768905	.	+	.	Name=tRNA-Pro
+NC_016842	Geneious	gene	768922	770154	.	-	.	
+NC_016842	Geneious	CDS	768922	770154	.	-	0	Name=M23 family metallopeptidase CDS
+NC_016842	Geneious	gene	770154	772274	.	-	.	Name=recJ gene
+NC_016842	Geneious	CDS	770154	772274	.	-	0	Name=recJ CDS
+NC_016842	Geneious	gene	772417	775071	.	-	.	
+NC_016842	Geneious	CDS	772417	775071	.	-	0	Name=penicillin-binding protein 1A CDS
+NC_016842	Geneious	gene	775368	776294	.	-	.	
+NC_016842	Geneious	CDS	775368	776294	.	-	0	Name=LysM peptidoglycan-binding domain-containing M23family metallopeptidase CDS
+NC_016842	Geneious	gene	776356	776835	.	-	.	
+NC_016842	Geneious	CDS	776356	776835	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	776901	777416	.	+	.	
+NC_016842	Geneious	CDS	776901	777416	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	777472	778260	.	+	.	Name=whiG gene
+NC_016842	Geneious	CDS	777472	778260	.	+	0	Name=whiG CDS
+NC_016842	Geneious	gene	778269	780239	.	+	.	
+NC_016842	Geneious	CDS	778269	780239	.	+	0	Name=FapA family protein CDS
+NC_016842	Geneious	gene	780276	780848	.	+	.	
+NC_016842	Geneious	CDS	780276	780848	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	780863	781777	.	-	.	
+NC_016842	Geneious	CDS	780863	781777	.	-	0	Name=MinD/ParA family protein CDS
+NC_016842	Geneious	gene	781749	783062	.	-	.	Name=flhF gene
+NC_016842	Geneious	CDS	781749	783062	.	-	0	Name=flhF CDS
+NC_016842	Geneious	gene	783097	785220	.	-	.	Name=flhA gene
+NC_016842	Geneious	CDS	783097	785220	.	-	0	Name=flhA CDS
+NC_016842	Geneious	gene	785229	786359	.	-	.	Name=flhB gene
+NC_016842	Geneious	CDS	785229	786359	.	-	0	Name=flhB CDS
+NC_016842	Geneious	gene	786356	787153	.	-	.	Name=fliR gene
+NC_016842	Geneious	CDS	786356	787153	.	-	0	Name=fliR CDS
+NC_016842	Geneious	gene	787166	787450	.	-	.	Name=fliQ gene
+NC_016842	Geneious	CDS	787166	787450	.	-	0	Name=fliQ CDS
+NC_016842	Geneious	gene	787469	788284	.	-	.	Name=fliP gene
+NC_016842	Geneious	CDS	787469	788284	.	-	0	Name=fliP CDS
+NC_016842	Geneious	gene	788281	788958	.	-	.	
+NC_016842	Geneious	CDS	788281	788958	.	-	0	Name=FliO/MopB family protein CDS
+NC_016842	Geneious	gene	789005	790051	.	-	.	Name=fliN gene
+NC_016842	Geneious	CDS	789005	790051	.	-	0	Name=fliN CDS
+NC_016842	Geneious	gene	790044	791078	.	-	.	Name=fliM gene
+NC_016842	Geneious	CDS	790044	791078	.	-	0	Name=fliM CDS
+NC_016842	Geneious	gene	791100	791648	.	-	.	Name=fliL gene
+NC_016842	Geneious	CDS	791100	791648	.	-	0	Name=fliL CDS
+NC_016842	Geneious	gene	791758	792474	.	-	.	Name=motB gene
+NC_016842	Geneious	CDS	791758	792474	.	-	0	Name=motB CDS
+NC_016842	Geneious	gene	792480	793259	.	-	.	
+NC_016842	Geneious	CDS	792480	793259	.	-	0	Name=motility protein A CDS
+NC_016842	Geneious	gene	793275	793472	.	-	.	
+NC_016842	Geneious	CDS	793275	793472	.	-	0	Name=flagellar FlbD family protein CDS
+NC_016842	Geneious	gene	793530	794921	.	-	.	Name=flgE gene
+NC_016842	Geneious	CDS	793530	794921	.	-	0	Name=flgE CDS
+NC_016842	Geneious	gene	794992	795453	.	-	.	Name=flgD gene
+NC_016842	Geneious	CDS	794992	795453	.	-	0	Name=flgD CDS
+NC_016842	Geneious	gene	795529	797172	.	-	.	
+NC_016842	Geneious	CDS	795529	797172	.	-	0	Name=flagellar hook-length control protein FliK CDS
+NC_016842	Geneious	gene	797387	798238	.	+	.	
+NC_016842	Geneious	CDS	797387	798238	.	+	0	Name=CDP-alcohol phosphatidyltransferase family protein CDS
+NC_016842	Geneious	gene	798312	798932	.	+	.	
+NC_016842	Geneious	CDS	798312	798932	.	+	0	Name=NUDIX hydrolase CDS
+NC_016842	Geneious	gene	798934	799881	.	-	.	
+NC_016842	Geneious	CDS	798934	799881	.	-	0	Name=bifunctional 5%2C10-methylenetetrahydrofolate dehydrogenase/5%2C10-methenyltetrahydrofolate cyclohydrolase CDS
+NC_016842	Geneious	gene	799977	800636	.	+	.	
+NC_016842	Geneious	CDS	799977	800636	.	+	0	Name=TP0733 family outer membrane beta-barrel protein CDS
+NC_016842	Geneious	gene	800669	801370	.	-	.	Name=deoD gene
+NC_016842	Geneious	CDS	800669	801370	.	-	0	Name=deoD CDS
+NC_016842	Geneious	gene	801452	803008	.	-	.	Name=gltA gene
+NC_016842	Geneious	CDS	801452	803008	.	-	0	Name=gltA CDS
+NC_016842	Geneious	gene	803011	803853	.	-	.	
+NC_016842	Geneious	CDS	803011	803853	.	-	0	Name=sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein CDS
+NC_016842	Geneious	gene	804087	805397	.	+	.	
+NC_016842	Geneious	CDS	804087	805397	.	+	0	Name=ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	805443	805778	.	-	.	Name=rsfS gene
+NC_016842	Geneious	CDS	805443	805778	.	-	0	Name=rsfS CDS
+NC_016842	Geneious	gene	805775	806971	.	-	.	
+NC_016842	Geneious	CDS	805775	806971	.	-	0	Name=LCP family protein CDS
+NC_016842	Geneious	gene	807045	807758	.	-	.	Name=yqeK gene
+NC_016842	Geneious	CDS	807045	807758	.	-	0	Name=yqeK CDS
+NC_016842	Geneious	gene	807739	808353	.	-	.	Name=nadD gene
+NC_016842	Geneious	CDS	807739	808353	.	-	0	Name=nadD CDS
+NC_016842	Geneious	gene	808350	809480	.	-	.	Name=cgtA gene
+NC_016842	Geneious	CDS	808350	809480	.	-	0	Name=cgtA CDS
+NC_016842	Geneious	gene	809598	809861	.	-	.	Name=rpmA gene
+NC_016842	Geneious	CDS	809598	809861	.	-	0	Name=rpmA CDS
+NC_016842	Geneious	gene	809892	810218	.	-	.	
+NC_016842	Geneious	CDS	809892	810218	.	-	0	Name=ribosomal-processing cysteine protease Prp CDS
+NC_016842	Geneious	gene	810231	810548	.	-	.	Name=rplU gene
+NC_016842	Geneious	CDS	810231	810548	.	-	0	Name=rplU CDS
+NC_016842	Geneious	gene	810655	813360	.	-	.	
+NC_016842	Geneious	CDS	810655	813360	.	-	0	Name=putative PEP-binding protein CDS
+NC_016842	Geneious	gene	813370	814404	.	-	.	
+NC_016842	Geneious	CDS	813370	814404	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	814493	816529	.	-	.	Name=cfpA gene
+NC_016842	Geneious	CDS	814493	816529	.	-	0	Name=cfpA CDS
+NC_016842	Geneious	gene	816507	816728	.	-	.	
+NC_016842	Geneious	CDS	816507	816728	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	816698	817369	.	+	.	
+NC_016842	Geneious	CDS	816698	817369	.	+	0	Name=vWA domain-containing protein CDS
+NC_016842	Geneious	gene	817406	818119	.	+	.	Name=vwb gene
+NC_016842	Geneious	CDS	817406	818119	.	+	0	Name=vwb CDS
+NC_016842	Geneious	gene	818257	819372	.	-	.	
+NC_016842	Geneious	CDS	818257	819372	.	-	0	Name=SPOR domain-containing protein CDS
+NC_016842	Geneious	gene	819480	819764	.	-	.	
+NC_016842	Geneious	CDS	819480	819764	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	819761	821131	.	-	.	Name=miaB gene
+NC_016842	Geneious	CDS	819761	821131	.	-	0	Name=miaB CDS
+NC_016842	Geneious	gene	821173	821829	.	-	.	
+NC_016842	Geneious	CDS	821173	821829	.	-	0	Name=PTS sugar transporter subunit IIA CDS
+NC_016842	Geneious	gene	821915	822874	.	-	.	Name=fmt gene
+NC_016842	Geneious	CDS	821915	822874	.	-	0	Name=fmt CDS
+NC_016842	Geneious	gene	822878	823366	.	-	.	Name=def gene
+NC_016842	Geneious	CDS	822878	823366	.	-	0	Name=def CDS
+NC_016842	Geneious	gene	823407	823616	.	-	.	Name=rpsU gene
+NC_016842	Geneious	CDS	823407	823616	.	-	0	Name=rpsU CDS
+NC_016842	Geneious	gene	823811	825769	.	+	.	
+NC_016842	Geneious	CDS	823811	825769	.	+	0	Name=penicillin-binding protein CDS
+NC_016842	Geneious	gene	825750	826628	.	+	.	
+NC_016842	Geneious	CDS	825750	826628	.	+	0	Name=motility associated factor glycosyltransferase family protein CDS
+NC_016842	Geneious	gene	826649	827839	.	+	.	
+NC_016842	Geneious	CDS	826649	827839	.	+	0	Name=6-hydroxymethylpterin diphosphokinase MptE-like protein CDS
+NC_016842	Geneious	gene	827901	828842	.	-	.	
+NC_016842	Geneious	CDS	827901	828842	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	828801	829976	.	+	.	
+NC_016842	Geneious	CDS	828801	829976	.	+	0	Name=HD-GYP domain-containing protein CDS
+NC_016842	Geneious	gene	829958	831787	.	-	.	Name=ftsH gene
+NC_016842	Geneious	CDS	829958	831787	.	-	0	Name=ftsH CDS
+NC_016842	Geneious	gene	832190	833071	.	+	.	
+NC_016842	Geneious	CDS	832190	833071	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	833282	835369	.	+	.	Name=fusA gene
+NC_016842	Geneious	CDS	833282	835369	.	+	0	Name=fusA CDS
+NC_016842	Geneious	gene	835508	836545	.	+	.	Name=tmpA gene
+NC_016842	Geneious	CDS	835508	836545	.	+	0	Name=tmpA CDS
+NC_016842	Geneious	gene	836542	837519	.	+	.	
+NC_016842	Geneious	CDS	836542	837519	.	+	0	Name=LysM peptidoglycan-binding domain-containing protein CDS
+NC_016842	Geneious	gene	837564	839513	.	+	.	
+NC_016842	Geneious	CDS	837564	839513	.	+	0	Name=DEAD/DEAH box helicase CDS
+NC_016842	Geneious	gene	839534	841315	.	-	.	
+NC_016842	Geneious	CDS	839534	841315	.	-	0	Name=Na/Pi cotransporter family protein CDS
+NC_016842	Geneious	gene	841319	842143	.	+	.	
+NC_016842	Geneious	CDS	841319	842143	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	842183	843415	.	-	.	
+NC_016842	Geneious	CDS	842183	843415	.	-	0	Name=S1C family serine protease CDS
+NC_016842	Geneious	gene	843392	843464	.	-	.	
+NC_016842	Geneious	tRNA	843392	843464	.	-	.	Name=tRNA-Lys
+NC_016842	Geneious	gene	843608	843691	.	+	.	
+NC_016842	Geneious	tRNA	843608	843691	.	+	.	Name=tRNA-Leu
+NC_016842	Geneious	gene	843724	844398	.	+	.	
+NC_016842	Geneious	CDS	843724	844398	.	+	0	Name=MgtC/SapB family protein CDS
+NC_016842	Geneious	gene	844478	845113	.	+	.	Name=nth gene
+NC_016842	Geneious	CDS	844478	845113	.	+	0	Name=nth CDS
+NC_016842	Geneious	gene	845190	845831	.	-	.	
+NC_016842	Geneious	CDS	845190	845831	.	-	0	Name=ComF family protein CDS
+NC_016842	Geneious	gene	846019	846243	.	-	.	
+NC_016842	Geneious	CDS	846019	846243	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	846312	847220	.	-	.	Name=mazG gene
+NC_016842	Geneious	CDS	846312	847220	.	-	0	Name=mazG CDS
+NC_016842	Geneious	gene	847220	847864	.	-	.	
+NC_016842	Geneious	CDS	847220	847864	.	-	0	Name=DedA family protein CDS
+NC_016842	Geneious	gene	847911	849950	.	-	.	
+NC_016842	Geneious	CDS	847911	849950	.	-	0	Name=NAD(+) synthase CDS
+NC_016842	Geneious	gene	849987	850448	.	-	.	
+NC_016842	Geneious	CDS	849987	850448	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	850966	852099	.	-	.	
+NC_016842	Geneious	CDS	850966	852099	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	852265	852864	.	+	.	
+NC_016842	Geneious	CDS	852265	852864	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	853056	853547	.	+	.	
+NC_016842	Geneious	CDS	853056	853547	.	+	0	Name=LptA/OstA family protein CDS
+NC_016842	Geneious	gene	853679	854392	.	+	.	Name=lptB gene
+NC_016842	Geneious	CDS	853679	854392	.	+	0	Name=lptB CDS
+NC_016842	Geneious	gene	854439	854786	.	-	.	
+NC_016842	Geneious	CDS	854439	854786	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	855051	855830	.	+	.	
+NC_016842	Geneious	CDS	855051	855830	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	855843	856619	.	-	.	
+NC_016842	Geneious	CDS	855843	856619	.	-	0	Name=outer membrane lipoprotein-sorting protein CDS
+NC_016842	Geneious	gene	856638	859289	.	-	.	
+NC_016842	Geneious	CDS	856638	859289	.	-	0	Name=efflux RND transporter permease subunit CDS
+NC_016842	Geneious	gene	859447	859692	.	-	.	
+NC_016842	Geneious	CDS	859447	859692	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	859678	860538	.	+	.	
+NC_016842	Geneious	CDS	859678	860538	.	+	0	Name=flagellin CDS
+NC_016842	Geneious	gene	860617	862236	.	+	.	
+NC_016842	Geneious	CDS	860617	862236	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	862273	863463	.	-	.	Name=metK gene
+NC_016842	Geneious	CDS	862273	863463	.	-	0	Name=metK CDS
+NC_016842	Geneious	gene	863664	864752	.	-	.	
+NC_016842	Geneious	CDS	863664	864752	.	-	0	Name=FAD:protein FMN transferase CDS
+NC_016842	Geneious	gene	864812	865603	.	-	.	Name=proC gene
+NC_016842	Geneious	CDS	864812	865603	.	-	0	Name=proC CDS
+NC_016842	Geneious	gene	865654	868089	.	-	.	Name=metG gene
+NC_016842	Geneious	CDS	865654	868089	.	-	0	Name=metG CDS
+NC_016842	Geneious	gene	868453	869889	.	+	.	
+NC_016842	Geneious	CDS	868453	869889	.	+	0	Name=D-alanyl-D-alanine carboxypeptidase family protein CDS
+NC_016842	Geneious	gene	869950	872379	.	-	.	Name=clpA gene
+NC_016842	Geneious	CDS	869950	872379	.	-	0	Name=clpA CDS
+NC_016842	Geneious	gene	872425	872754	.	+	.	
+NC_016842	Geneious	CDS	872425	872754	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	872768	873976	.	+	.	
+NC_016842	Geneious	CDS	872768	873976	.	+	0	Name=DHH family phosphoesterase CDS
+NC_016842	Geneious	gene	874054	875217	.	+	.	
+NC_016842	Geneious	CDS	874054	875217	.	+	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	875242	877344	.	-	.	
+NC_016842	Geneious	CDS	875242	877344	.	-	0	Name=ribonuclease catalytic domain-containing protein CDS
+NC_016842	Geneious	gene	877344	878741	.	-	.	
+NC_016842	Geneious	CDS	877344	878741	.	-	0	Name=peptidoglycan bridge formation glycyltransferaseFemA/FemB family protein CDS
+NC_016842	Geneious	gene	878969	879157	.	+	.	Name=rpmF gene
+NC_016842	Geneious	CDS	878969	879157	.	+	0	Name=rpmF CDS
+NC_016842	Geneious	gene	879218	879454	.	+	.	Name=acpP gene
+NC_016842	Geneious	CDS	879218	879454	.	+	0	Name=acpP CDS
+NC_016842	Geneious	gene	879451	880215	.	+	.	Name=rnc gene
+NC_016842	Geneious	CDS	879451	880215	.	+	0	Name=rnc CDS
+NC_016842	Geneious	gene	880246	881157	.	+	.	
+NC_016842	Geneious	CDS	880246	881157	.	+	0	Name=DNA adenine methylase CDS
+NC_016842	Geneious	gene	881352	882089	.	+	.	
+NC_016842	Geneious	CDS	881352	882089	.	+	0	Name=AMP-binding protein CDS
+NC_016842	Geneious	gene	882070	883011	.	+	.	
+NC_016842	Geneious	CDS	882070	883011	.	+	0	Name=AMP-binding protein CDS
+NC_016842	Geneious	gene	883029	884051	.	-	.	
+NC_016842	Geneious	CDS	883029	884051	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	884274	885197	.	+	.	Name=trxB gene
+NC_016842	Geneious	CDS	884274	885197	.	+	0	Name=trxB CDS
+NC_016842	Geneious	gene	885436	886302	.	+	.	
+NC_016842	Geneious	CDS	885436	886302	.	+	0	Name=GNAT family N-acetyltransferase CDS
+NC_016842	Geneious	gene	886374	887039	.	-	.	
+NC_016842	Geneious	CDS	886374	887039	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	887177	888475	.	-	.	Name=eno gene
+NC_016842	Geneious	CDS	887177	888475	.	-	0	Name=eno CDS
+NC_016842	Geneious	gene	888651	889577	.	-	.	
+NC_016842	Geneious	CDS	888651	889577	.	-	0	Name=ribonuclease Z CDS
+NC_016842	Geneious	gene	889611	890381	.	-	.	
+NC_016842	Geneious	CDS	889611	890381	.	-	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	890477	891283	.	-	.	
+NC_016842	Geneious	CDS	890477	891283	.	-	0	Name=MetQ/NlpA family ABC transporter substrate-binding protein CDS
+NC_016842	Geneious	gene	891364	892239	.	-	.	
+NC_016842	Geneious	CDS	891364	892239	.	-	0	Name=mechanosensitive ion channel family protein CDS
+NC_016842	Geneious	gene	892357	892743	.	-	.	
+NC_016842	Geneious	CDS	892357	892743	.	-	0	Name=superoxide reductase domain-containing protein CDS
+NC_016842	Geneious	gene	893140	895032	.	+	.	Name=dxs gene
+NC_016842	Geneious	CDS	893140	895032	.	+	0	Name=dxs CDS
+NC_016842	Geneious	gene	895029	895214	.	+	.	
+NC_016842	Geneious	CDS	895029	895214	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	895201	896022	.	+	.	Name=cdaA gene
+NC_016842	Geneious	CDS	895201	896022	.	+	0	Name=cdaA CDS
+NC_016842	Geneious	gene	896000	896962	.	+	.	
+NC_016842	Geneious	CDS	896000	896962	.	+	0	Name=CdaR family protein CDS
+NC_016842	Geneious	gene	896959	897336	.	+	.	
+NC_016842	Geneious	CDS	896959	897336	.	+	0	Name=holo-ACP synthase CDS
+NC_016842	Geneious	gene	897333	898217	.	+	.	
+NC_016842	Geneious	CDS	897333	898217	.	+	0	Name=DUF2225 domain-containing protein CDS
+NC_016842	Geneious	gene	898214	898999	.	+	.	Name=truA gene
+NC_016842	Geneious	CDS	898214	898999	.	+	0	Name=truA CDS
+NC_016842	Geneious	gene	899067	900836	.	-	.	Name=argS gene
+NC_016842	Geneious	CDS	899067	900836	.	-	0	Name=argS CDS
+NC_016842	Geneious	gene	900859	901674	.	-	.	
+NC_016842	Geneious	CDS	900859	901674	.	-	0	Name=GerMN domain-containing protein CDS
+NC_016842	Geneious	gene	901741	902463	.	+	.	
+NC_016842	Geneious	CDS	901741	902463	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	902520	903749	.	-	.	Name=tyrS gene
+NC_016842	Geneious	CDS	902520	903749	.	-	0	Name=tyrS CDS
+NC_016842	Geneious	gene	903857	906661	.	-	.	
+NC_016842	Geneious	CDS	903857	906661	.	-	0	Name=ankyrin repeat domain-containing protein CDS
+NC_016842	Geneious	gene	906802	907626	.	-	.	
+NC_016842	Geneious	CDS	906802	907626	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	907774	909552	.	+	.	Name=thrS gene
+NC_016842	Geneious	CDS	907774	909552	.	+	0	Name=thrS CDS
+NC_016842	Geneious	gene	909601	911256	.	-	.	
+NC_016842	Geneious	CDS	909601	911256	.	-	0	Name=ABC-F family ATP-binding cassette domain-containing protein CDS
+NC_016842	Geneious	gene	911340	912347	.	-	.	
+NC_016842	Geneious	CDS	911340	912347	.	-	0	Name=DUF4097 family beta strand repeat-containing protein CDS
+NC_016842	Geneious	gene	912452	914701	.	+	.	
+NC_016842	Geneious	CDS	912452	914701	.	+	0	Name=MFS transporter CDS
+NC_016842	Geneious	gene	914763	916337	.	-	.	
+NC_016842	Geneious	CDS	914763	916337	.	-	0	Name=Do family serine endopeptidase CDS
+NC_016842	Geneious	gene	916532	917299	.	-	.	Name=map gene
+NC_016842	Geneious	CDS	916532	917299	.	-	0	Name=map CDS
+NC_016842	Geneious	gene	917423	918190	.	-	.	
+NC_016842	Geneious	CDS	917423	918190	.	-	0	Name=J domain-containing protein CDS
+NC_016842	Geneious	gene	918340	919392	.	+	.	Name=gap gene
+NC_016842	Geneious	CDS	918340	919392	.	+	0	Name=gap CDS
+NC_016842	Geneious	gene	919447	919980	.	-	.	
+NC_016842	Geneious	CDS	919447	919980	.	-	0	Name=YaiI/YqxD family protein CDS
+NC_016842	Geneious	gene	920018	920344	.	-	.	
+NC_016842	Geneious	CDS	920018	920344	.	-	0	Name=cell division protein ZapA CDS
+NC_016842	Geneious	gene	920344	920679	.	-	.	Name=zapB gene
+NC_016842	Geneious	CDS	920344	920679	.	-	0	Name=zapB CDS
+NC_016842	Geneious	gene	920673	921041	.	-	.	Name=rplT gene
+NC_016842	Geneious	CDS	920673	921041	.	-	0	Name=rplT CDS
+NC_016842	Geneious	gene	921074	921274	.	-	.	Name=rpmI gene
+NC_016842	Geneious	CDS	921074	921274	.	-	0	Name=rpmI CDS
+NC_016842	Geneious	gene	921327	921866	.	-	.	Name=infC gene
+NC_016842	Geneious	CDS	921327	921866	.	-	0	Name=infC CDS
+NC_016842	Geneious	gene	922029	924203	.	+	.	
+NC_016842	Geneious	CDS	922029	924203	.	+	0	Name=DUF4954 family protein CDS
+NC_016842	Geneious	gene	924232	925230	.	-	.	Name=lgt gene
+NC_016842	Geneious	CDS	924232	925230	.	-	0	Name=lgt CDS
+NC_016842	Geneious	gene	925381	926517	.	-	.	
+NC_016842	Geneious	CDS	925381	926517	.	-	0	Name=P-loop NTPase CDS
+NC_016842	Geneious	gene	926572	931173	.	-	.	
+NC_016842	Geneious	CDS	926572	931173	.	-	0	Name=SpoIIE family protein phosphatase CDS
+NC_016842	Geneious	gene	931170	934553	.	-	.	
+NC_016842	Geneious	CDS	931170	934553	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	934709	935893	.	+	.	
+NC_016842	Geneious	CDS	934709	935893	.	+	0	Name=UPF0164 family protein CDS
+NC_016842	Geneious	gene	935995	937224	.	+	.	
+NC_016842	Geneious	CDS	935995	937224	.	+	0	Name=UPF0164 family protein CDS
+NC_016842	Geneious	gene	937306	938805	.	+	.	
+NC_016842	Geneious	CDS	937306	938805	.	+	0	Name=UPF0164 family protein CDS
+NC_016842	Geneious	gene	938878	940785	.	-	.	Name=glmS gene
+NC_016842	Geneious	CDS	938878	940785	.	-	0	Name=glmS CDS
+NC_016842	Geneious	gene	941022	941816	.	-	.	
+NC_016842	Geneious	CDS	941022	941816	.	-	0	Name=FKBP-type peptidyl-prolyl cis-trans isomerase CDS
+NC_016842	Geneious	gene	941951	943234	.	+	.	
+NC_016842	Geneious	CDS	941951	943234	.	+	0	Name=cysteine desulfurase family protein CDS
+NC_016842	Geneious	gene	943293	944933	.	-	.	
+NC_016842	Geneious	CDS	943293	944933	.	-	0	Name=peptidoglycan DD-metalloendopeptidase family protein CDS
+NC_016842	Geneious	gene	944967	946412	.	-	.	
+NC_016842	Geneious	CDS	944967	946412	.	-	0	Name=UPF0164 family protein CDS
+NC_016842	Geneious	gene	946500	948431	.	-	.	
+NC_016842	Geneious	CDS	946500	948431	.	-	0	Name=YifB family Mg chelatase-like AAA ATPase CDS
+NC_016842	Geneious	gene	948760	949620	.	+	.	
+NC_016842	Geneious	CDS	948760	949620	.	+	0	Name=flagellin CDS
+NC_016842	Geneious	gene	949635	949871	.	+	.	
+NC_016842	Geneious	CDS	949635	949871	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	949899	950756	.	+	.	
+NC_016842	Geneious	CDS	949899	950756	.	+	0	Name=flagellin CDS
+NC_016842	Geneious	gene	951054	953222	.	+	.	Name=fliD gene
+NC_016842	Geneious	CDS	951054	953222	.	+	0	Name=fliD CDS
+NC_016842	Geneious	gene	953234	953836	.	+	.	
+NC_016842	Geneious	CDS	953234	953836	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	953833	954108	.	+	.	
+NC_016842	Geneious	CDS	953833	954108	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	954148	954555	.	+	.	Name=tsaE gene
+NC_016842	Geneious	CDS	954148	954555	.	+	0	Name=tsaE CDS
+NC_016842	Geneious	gene	954602	955267	.	+	.	Name=tsaB gene
+NC_016842	Geneious	CDS	954602	955267	.	+	0	Name=tsaB CDS
+NC_016842	Geneious	gene	955272	956369	.	+	.	
+NC_016842	Geneious	CDS	955272	956369	.	+	0	Name=HD-GYP domain-containing protein CDS
+NC_016842	Geneious	gene	956382	957332	.	-	.	
+NC_016842	Geneious	CDS	956382	957332	.	-	0	Name=DUF4340 domain-containing protein CDS
+NC_016842	Geneious	gene	957338	958786	.	-	.	
+NC_016842	Geneious	CDS	957338	958786	.	-	0	Name=GldG family protein CDS
+NC_016842	Geneious	gene	958816	959553	.	-	.	
+NC_016842	Geneious	CDS	958816	959553	.	-	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	959531	960373	.	-	.	
+NC_016842	Geneious	CDS	959531	960373	.	-	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	960416	961867	.	-	.	
+NC_016842	Geneious	CDS	960416	961867	.	-	0	Name=HEAT repeat domain-containing protein CDS
+NC_016842	Geneious	gene	961884	963002	.	-	.	
+NC_016842	Geneious	CDS	961884	963002	.	-	0	Name=LptF/LptG family permease CDS
+NC_016842	Geneious	gene	962999	964096	.	-	.	
+NC_016842	Geneious	CDS	962999	964096	.	-	0	Name=LptF/LptG family permease CDS
+NC_016842	Geneious	gene	964117	964557	.	-	.	Name=dut gene
+NC_016842	Geneious	CDS	964117	964557	.	-	0	Name=dut CDS
+NC_016842	Geneious	gene	964554	966662	.	-	.	Name=pnp gene
+NC_016842	Geneious	CDS	964554	966662	.	-	0	Name=pnp CDS
+NC_016842	Geneious	gene	966810	967079	.	-	.	Name=rpsO gene
+NC_016842	Geneious	CDS	966810	967079	.	-	0	Name=rpsO CDS
+NC_016842	Geneious	gene	967095	967922	.	-	.	
+NC_016842	Geneious	CDS	967095	967922	.	-	0	Name=FAD synthetase family protein CDS
+NC_016842	Geneious	gene	967926	969026	.	-	.	Name=truB gene
+NC_016842	Geneious	CDS	967926	969026	.	-	0	Name=truB CDS
+NC_016842	Geneious	gene	969004	969384	.	-	.	Name=rbfA gene
+NC_016842	Geneious	CDS	969004	969384	.	-	0	Name=rbfA CDS
+NC_016842	Geneious	gene	969381	971909	.	-	.	Name=infB gene
+NC_016842	Geneious	CDS	969381	971909	.	-	0	Name=infB CDS
+NC_016842	Geneious	gene	972085	973542	.	-	.	Name=nusA gene
+NC_016842	Geneious	CDS	972085	973542	.	-	0	Name=nusA CDS
+NC_016842	Geneious	gene	973592	974062	.	-	.	Name=rimP gene
+NC_016842	Geneious	CDS	973592	974062	.	-	0	Name=rimP CDS
+NC_016842	Geneious	gene	974236	975258	.	-	.	
+NC_016842	Geneious	CDS	974236	975258	.	-	0	Name=NYN domain-containing protein CDS
+NC_016842	Geneious	gene	975265	975633	.	-	.	
+NC_016842	Geneious	CDS	975265	975633	.	-	0	Name=DUF302 domain-containing protein CDS
+NC_016842	Geneious	gene	975927	977522	.	-	.	
+NC_016842	Geneious	CDS	975927	977522	.	-	0	Name=MSP porin CDS
+NC_016842	Geneious	gene	977519	981238	.	-	.	
+NC_016842	Geneious	CDS	977519	981238	.	-	0	Name=UvrD-helicase domain-containing protein CDS
+NC_016842	Geneious	gene	981235	984195	.	-	.	
+NC_016842	Geneious	CDS	981235	984195	.	-	0	Name=PD-(D/E)XK nuclease family protein CDS
+NC_016842	Geneious	gene	984234	985646	.	-	.	
+NC_016842	Geneious	CDS	984234	985646	.	-	0	Name=MATE family efflux transporter CDS
+NC_016842	Geneious	gene	985687	986568	.	-	.	
+NC_016842	Geneious	CDS	985687	986568	.	-	0	Name=alpha/beta hydrolase CDS
+NC_016842	Geneious	gene	986570	988168	.	+	.	Name=murD gene
+NC_016842	Geneious	CDS	986570	988168	.	+	0	Name=murD CDS
+NC_016842	Geneious	gene	988161	988412	.	+	.	
+NC_016842	Geneious	CDS	988161	988412	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	988375	988608	.	+	.	Name=rpsP gene
+NC_016842	Geneious	CDS	988375	988608	.	+	0	Name=rpsP CDS
+NC_016842	Geneious	gene	988755	988997	.	+	.	
+NC_016842	Geneious	CDS	988755	988997	.	+	0	Name=KH domain-containing protein CDS
+NC_016842	Geneious	gene	989060	989584	.	+	.	Name=rimM gene
+NC_016842	Geneious	CDS	989060	989584	.	+	0	Name=rimM CDS
+NC_016842	Geneious	gene	989581	990333	.	+	.	Name=trmD gene
+NC_016842	Geneious	CDS	989581	990333	.	+	0	Name=trmD CDS
+NC_016842	Geneious	gene	990305	990676	.	+	.	Name=rplS gene
+NC_016842	Geneious	CDS	990305	990676	.	+	0	Name=rplS CDS
+NC_016842	Geneious	gene	990673	991593	.	+	.	
+NC_016842	Geneious	CDS	990673	991593	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	991615	991866	.	+	.	
+NC_016842	Geneious	CDS	991615	991866	.	+	0	Name=FlhB-like flagellar biosynthesis protein CDS
+NC_016842	Geneious	gene	991950	993200	.	+	.	
+NC_016842	Geneious	CDS	991950	993200	.	+	0	Name=HD-GYP domain-containing protein CDS
+NC_016842	Geneious	gene	993184	993564	.	+	.	
+NC_016842	Geneious	CDS	993184	993564	.	+	0	Name=YraN family protein CDS
+NC_016842	Geneious	gene	993561	993743	.	+	.	
+NC_016842	Geneious	CDS	993561	993743	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	993736	994122	.	+	.	
+NC_016842	Geneious	CDS	993736	994122	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	994196	995530	.	+	.	
+NC_016842	Geneious	CDS	994196	995530	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	995699	997048	.	+	.	Name=mgtE gene
+NC_016842	Geneious	CDS	995699	997048	.	+	0	Name=mgtE CDS
+NC_016842	Geneious	gene	997862	998179	.	-	.	Name=trxA gene
+NC_016842	Geneious	CDS	997862	998179	.	-	0	Name=trxA CDS
+NC_016842	Geneious	gene	998402	1000831	.	+	.	
+NC_016842	Geneious	CDS	998402	1000831	.	+	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	1000939	1002276	.	+	.	Name=nox gene
+NC_016842	Geneious	CDS	1000939	1002276	.	+	0	Name=nox CDS
+NC_016842	Geneious	gene	1002349	1003401	.	+	.	
+NC_016842	Geneious	CDS	1002349	1003401	.	+	0	Name=nucleotidyltransferase family protein CDS
+NC_016842	Geneious	gene	1003345	1004367	.	-	.	
+NC_016842	Geneious	CDS	1003345	1004367	.	-	0	Name=PEGA domain-containing protein CDS
+NC_016842	Geneious	gene	1004519	1004591	.	+	.	
+NC_016842	Geneious	tRNA	1004519	1004591	.	+	.	Name=tRNA-Ala
+NC_016842	Geneious	gene	1004691	1007027	.	+	.	
+NC_016842	Geneious	CDS	1004691	1007027	.	+	0	Name=helix-hairpin-helix domain-containing protein CDS
+NC_016842	Geneious	gene	1007129	1007201	.	-	.	
+NC_016842	Geneious	tRNA	1007129	1007201	.	-	.	Name=tRNA-Thr
+NC_016842	Geneious	gene	1007394	1007834	.	+	.	
+NC_016842	Geneious	CDS	1007394	1007834	.	+	0	Name=flavodoxin CDS
+NC_016842	Geneious	gene	1007985	1009523	.	-	.	Name=lepB gene
+NC_016842	Geneious	CDS	1007985	1009523	.	-	0	Name=lepB CDS
+NC_016842	Geneious	gene	1009616	1010206	.	+	.	
+NC_016842	Geneious	CDS	1009616	1010206	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1011054	1011824	.	+	.	
+NC_016842	Geneious	CDS	1011054	1011824	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1011863	1013569	.	+	.	
+NC_016842	Geneious	CDS	1011863	1013569	.	+	0	Name=6-hydroxymethylpterin diphosphokinase MptE-like protein CDS
+NC_016842	Geneious	gene	1013653	1015083	.	-	.	
+NC_016842	Geneious	CDS	1013653	1015083	.	-	0	Name=MGH1-like glycoside hydrolase domain-containing protein CDS
+NC_016842	Geneious	gene	1015195	1016817	.	-	.	
+NC_016842	Geneious	CDS	1015195	1016817	.	-	0	Name=UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C 6-diaminopimelate ligase CDS
+NC_016842	Geneious	gene	1016953	1018176	.	+	.	
+NC_016842	Geneious	CDS	1016953	1018176	.	+	0	Name=dicarboxylate/amino acid:cation symporter CDS
+NC_016842	Geneious	gene	1018169	1019107	.	-	.	
+NC_016842	Geneious	CDS	1018169	1019107	.	-	0	Name=alpha/beta hydrolase CDS
+NC_016842	Geneious	gene	1019218	1019291	.	+	.	
+NC_016842	Geneious	tRNA	1019218	1019291	.	+	.	Name=tRNA-Val
+NC_016842	Geneious	gene	1019301	1020374	.	-	.	
+NC_016842	Geneious	CDS	1019301	1020374	.	-	0	Name=transporter associated domain-containing protein CDS
+NC_016842	Geneious	gene	1020546	1021181	.	-	.	
+NC_016842	Geneious	CDS	1020546	1021181	.	-	0	Name=metallophosphoesterase family protein CDS
+NC_016842	Geneious	gene	1021178	1021888	.	-	.	
+NC_016842	Geneious	CDS	1021178	1021888	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1022073	1025627	.	-	.	Name=nifJ gene
+NC_016842	Geneious	CDS	1022073	1025627	.	-	0	Name=nifJ CDS
+NC_016842	Geneious	gene	1025822	1026340	.	-	.	
+NC_016842	Geneious	CDS	1025822	1026340	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1026417	1026881	.	-	.	
+NC_016842	Geneious	CDS	1026417	1026881	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1026887	1027333	.	-	.	Name=fliS gene
+NC_016842	Geneious	CDS	1026887	1027333	.	-	0	Name=fliS CDS
+NC_016842	Geneious	gene	1027382	1028554	.	-	.	
+NC_016842	Geneious	CDS	1027382	1028554	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1028725	1029381	.	-	.	Name=rpe gene
+NC_016842	Geneious	CDS	1028725	1029381	.	-	0	Name=rpe CDS
+NC_016842	Geneious	gene	1029533	1030201	.	+	.	Name=rsmG gene
+NC_016842	Geneious	CDS	1029533	1030201	.	+	0	Name=rsmG CDS
+NC_016842	Geneious	gene	1030246	1030893	.	-	.	
+NC_016842	Geneious	CDS	1030246	1030893	.	-	0	Name=peptidylprolyl isomerase CDS
+NC_016842	Geneious	gene	1030890	1031585	.	-	.	Name=jag gene
+NC_016842	Geneious	CDS	1030890	1031585	.	-	0	Name=jag CDS
+NC_016842	Geneious	gene	1031601	1033469	.	-	.	Name=yidC gene
+NC_016842	Geneious	CDS	1031601	1033469	.	-	0	Name=yidC CDS
+NC_016842	Geneious	gene	1033469	1033753	.	-	.	Name=yidD gene
+NC_016842	Geneious	CDS	1033469	1033753	.	-	0	Name=yidD CDS
+NC_016842	Geneious	gene	1033757	1034158	.	-	.	Name=rnpA gene
+NC_016842	Geneious	CDS	1033757	1034158	.	-	0	Name=rnpA CDS
+NC_016842	Geneious	gene	1034164	1034319	.	-	.	Name=rpmH gene
+NC_016842	Geneious	CDS	1034164	1034319	.	-	0	Name=rpmH CDS
+NC_016842	Geneious	gene	1034439	1035476	.	-	.	
+NC_016842	Geneious	CDS	1034439	1035476	.	-	0	Name=dienelactone hydrolase family protein CDS
+NC_016842	Geneious	gene	1035558	1036736	.	-	.	
+NC_016842	Geneious	CDS	1035558	1036736	.	-	0	Name=TraB/GumN family protein CDS
+NC_016842	Geneious	gene	1036835	1038271	.	-	.	
+NC_016842	Geneious	CDS	1036835	1038271	.	-	0	Name=tetratricopeptide repeat protein CDS
+NC_016842	Geneious	gene	1038343	1038594	.	-	.	
+NC_016842	Geneious	CDS	1038343	1038594	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1038490	1038714	.	+	.	
+NC_016842	Geneious	CDS	1038490	1038714	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1038711	1039682	.	+	.	
+NC_016842	Geneious	CDS	1038711	1039682	.	+	0	Name=TRAP transporter TatT component family protein CDS
+NC_016842	Geneious	gene	1039773	1040801	.	+	.	Name=dctP gene
+NC_016842	Geneious	CDS	1039773	1040801	.	+	0	Name=dctP CDS
+NC_016842	Geneious	gene	1040833	1042731	.	+	.	
+NC_016842	Geneious	CDS	1040833	1042731	.	+	0	Name=TRAP transporter large permease subunit CDS
+NC_016842	Geneious	gene	1042800	1043189	.	-	.	
+NC_016842	Geneious	CDS	1042800	1043189	.	-	0	Name=rod-binding protein CDS
+NC_016842	Geneious	gene	1043201	1043995	.	-	.	Name=flgG gene
+NC_016842	Geneious	CDS	1043201	1043995	.	-	0	Name=flgG CDS
+NC_016842	Geneious	gene	1044071	1044886	.	-	.	Name=flgF gene
+NC_016842	Geneious	CDS	1044071	1044886	.	-	0	Name=flgF CDS
+NC_016842	Geneious	gene	1044972	1046204	.	-	.	
+NC_016842	Geneious	CDS	1044972	1046204	.	-	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	1046315	1047544	.	-	.	
+NC_016842	Geneious	CDS	1046315	1047544	.	-	0	Name=ABC transporter permease CDS
+NC_016842	Geneious	gene	1047534	1048241	.	-	.	
+NC_016842	Geneious	CDS	1047534	1048241	.	-	0	Name=ABC transporter ATP-binding protein CDS
+NC_016842	Geneious	gene	1048241	1049203	.	-	.	
+NC_016842	Geneious	CDS	1048241	1049203	.	-	0	Name=efflux RND transporter periplasmic adaptor subunit CDS
+NC_016842	Geneious	gene	1049228	1050862	.	-	.	
+NC_016842	Geneious	CDS	1049228	1050862	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1050909	1052456	.	-	.	
+NC_016842	Geneious	CDS	1050909	1052456	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1052453	1054075	.	-	.	
+NC_016842	Geneious	CDS	1052453	1054075	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1054072	1055691	.	-	.	
+NC_016842	Geneious	CDS	1054072	1055691	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1055826	1056440	.	-	.	
+NC_016842	Geneious	CDS	1055826	1056440	.	-	0	Name=iron transporter CDS
+NC_016842	Geneious	gene	1056596	1057942	.	-	.	
+NC_016842	Geneious	CDS	1056596	1057942	.	-	0	Name=FTR1 family iron permease CDS
+NC_016842	Geneious	gene	1058030	1059691	.	+	.	
+NC_016842	Geneious	CDS	1058030	1059691	.	+	0	Name=phenylalanine--tRNA ligase subunit alpha CDS
+NC_016842	Geneious	gene	1059743	1060024	.	-	.	
+NC_016842	Geneious	CDS	1059743	1060024	.	-	0	Name=flagellar biosynthesis anti-sigma factor FlgM CDS
+NC_016842	Geneious	gene	1060076	1060900	.	-	.	Name=rsmI gene
+NC_016842	Geneious	CDS	1060076	1060900	.	-	0	Name=rsmI CDS
+NC_016842	Geneious	gene	1060947	1062326	.	+	.	
+NC_016842	Geneious	CDS	1060947	1062326	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1062313	1063173	.	+	.	
+NC_016842	Geneious	CDS	1062313	1063173	.	+	0	Name=Nif3-like dinuclear metal center hexameric protein CDS
+NC_016842	Geneious	gene	1063170	1063763	.	+	.	Name=lspA gene
+NC_016842	Geneious	CDS	1063170	1063763	.	+	0	Name=lspA CDS
+NC_016842	Geneious	gene	1063933	1064706	.	+	.	
+NC_016842	Geneious	CDS	1063933	1064706	.	+	0	Name=TatD family hydrolase CDS
+NC_016842	Geneious	gene	1064714	1065736	.	+	.	Name=dusB gene
+NC_016842	Geneious	CDS	1064714	1065736	.	+	0	Name=dusB CDS
+NC_016842	Geneious	gene	1065916	1066959	.	+	.	Name=dgcA gene
+NC_016842	Geneious	CDS	1065916	1066959	.	+	0	Name=dgcA CDS
+NC_016842	Geneious	gene	1066975	1067601	.	+	.	
+NC_016842	Geneious	CDS	1066975	1067601	.	+	0	Name=rhomboid family intramembrane serine protease CDS
+NC_016842	Geneious	gene	1068029	1068307	.	+	.	
+NC_016842	Geneious	CDS	1068029	1068307	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1068331	1070250	.	-	.	Name=htpG gene
+NC_016842	Geneious	CDS	1068331	1070250	.	-	0	Name=htpG CDS
+NC_016842	Geneious	gene	1070394	1072202	.	+	.	Name=aspS gene
+NC_016842	Geneious	CDS	1070394	1072202	.	+	0	Name=aspS CDS
+NC_016842	Geneious	gene	1072259	1073143	.	+	.	
+NC_016842	Geneious	CDS	1072259	1073143	.	+	0	Name=DMT family transporter CDS
+NC_016842	Geneious	gene	1073189	1073572	.	-	.	
+NC_016842	Geneious	CDS	1073189	1073572	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1073663	1074262	.	+	.	
+NC_016842	Geneious	CDS	1073663	1074262	.	+	0	Name=MarC family protein CDS
+NC_016842	Geneious	gene	1074298	1075170	.	-	.	
+NC_016842	Geneious	CDS	1074298	1075170	.	-	0	Name=glycogen-binding domain-containing protein CDS
+NC_016842	Geneious	gene	1075217	1078318	.	+	.	Name=flcA gene
+NC_016842	Geneious	CDS	1075217	1078318	.	+	0	Name=flcA CDS
+NC_016842	Geneious	gene	1078382	1078540	.	+	.	
+NC_016842	Geneious	CDS	1078382	1078540	.	+	0	Name=rubredoxin CDS
+NC_016842	Geneious	gene	1078573	1078860	.	+	.	
+NC_016842	Geneious	CDS	1078573	1078860	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1078929	1079954	.	-	.	
+NC_016842	Geneious	CDS	1078929	1079954	.	-	0	Name=septal ring lytic transglycosylase RlpA family protein CDS
+NC_016842	Geneious	gene	1080072	1080157	.	-	.	
+NC_016842	Geneious	tRNA	1080072	1080157	.	-	.	Name=tRNA-Leu
+NC_016842	Geneious	gene	1080238	1081119	.	+	.	
+NC_016842	Geneious	CDS	1080238	1081119	.	+	0	Name=TatD family hydrolase CDS
+NC_016842	Geneious	gene	1081201	1082535	.	+	.	
+NC_016842	Geneious	CDS	1081201	1082535	.	+	0	Name=cyclic nucleotide-binding domain-containing protein CDS
+NC_016842	Geneious	gene	1082565	1084181	.	-	.	
+NC_016842	Geneious	CDS	1082565	1084181	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1084205	1084278	.	-	.	
+NC_016842	Geneious	tRNA	1084205	1084278	.	-	.	Name=tRNA-Ala
+NC_016842	Geneious	gene	1084338	1086134	.	-	.	Name=sppA gene
+NC_016842	Geneious	CDS	1084338	1086134	.	-	0	Name=sppA CDS
+NC_016842	Geneious	gene	1086168	1087556	.	-	.	
+NC_016842	Geneious	CDS	1086168	1087556	.	-	0	Name=alanine/glycine:cation symporter family protein CDS
+NC_016842	Geneious	gene	1087742	1090141	.	+	.	
+NC_016842	Geneious	CDS	1087742	1090141	.	+	0	Name=DNA translocase FtsK CDS
+NC_016842	Geneious	gene	1090319	1090990	.	+	.	
+NC_016842	Geneious	CDS	1090319	1090990	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1091130	1092311	.	-	.	
+NC_016842	Geneious	CDS	1091130	1092311	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1092325	1093080	.	-	.	
+NC_016842	Geneious	CDS	1092325	1093080	.	-	0	Name=DUF2259 domain-containing protein CDS
+NC_016842	Geneious	gene	1093188	1094225	.	+	.	
+NC_016842	Geneious	CDS	1093188	1094225	.	+	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1094248	1094853	.	-	.	Name=recR gene
+NC_016842	Geneious	CDS	1094248	1094853	.	-	0	Name=recR CDS
+NC_016842	Geneious	gene	1094927	1096645	.	-	.	Name=dnaX gene
+NC_016842	Geneious	CDS	1094927	1096645	.	-	0	Name=dnaX CDS
+NC_016842	Geneious	gene	1096704	1098617	.	-	.	Name=gyrB gene
+NC_016842	Geneious	CDS	1096704	1098617	.	-	0	Name=gyrB CDS
+NC_016842	Geneious	gene	1098726	1099643	.	-	.	Name=thyX gene
+NC_016842	Geneious	CDS	1098726	1099643	.	-	0	Name=thyX CDS
+NC_016842	Geneious	gene	1099686	1102223	.	-	.	
+NC_016842	Geneious	CDS	1099686	1102223	.	-	0	Name=ribonucleoside-diphosphate reductase subunit alpha CDS
+NC_016842	Geneious	gene	1102350	1103420	.	-	.	
+NC_016842	Geneious	CDS	1102350	1103420	.	-	0	Name=NAD(P)H-dependent glycerol-3-phosphate dehydrogenase CDS
+NC_016842	Geneious	gene	1103517	1103966	.	-	.	Name=ndk gene
+NC_016842	Geneious	CDS	1103517	1103966	.	-	0	Name=ndk CDS
+NC_016842	Geneious	gene	1104092	1104700	.	-	.	Name=pth gene
+NC_016842	Geneious	CDS	1104092	1104700	.	-	0	Name=pth CDS
+NC_016842	Geneious	gene	1104735	1105670	.	-	.	
+NC_016842	Geneious	CDS	1104735	1105670	.	-	0	Name=sigma-70 family RNA polymerase sigma factor CDS
+NC_016842	Geneious	gene	1105875	1106141	.	+	.	
+NC_016842	Geneious	CDS	1105875	1106141	.	+	0	Name=co-chaperone GroES CDS
+NC_016842	Geneious	gene	1106152	1108086	.	-	.	
+NC_016842	Geneious	CDS	1106152	1108086	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1108052	1108477	.	-	.	Name=nusB gene
+NC_016842	Geneious	CDS	1108052	1108477	.	-	0	Name=nusB CDS
+NC_016842	Geneious	gene	1108474	1109559	.	-	.	
+NC_016842	Geneious	CDS	1108474	1109559	.	-	0	Name=peptidyl-prolyl cis-trans isomerase CDS
+NC_016842	Geneious	gene	1109632	1111449	.	-	.	
+NC_016842	Geneious	CDS	1109632	1111449	.	-	0	Name=alanine--tRNA ligase CDS
+NC_016842	Geneious	gene	1111621	1113135	.	+	.	Name=rny gene
+NC_016842	Geneious	CDS	1111621	1113135	.	+	0	Name=rny CDS
+NC_016842	Geneious	gene	1113256	1113600	.	+	.	
+NC_016842	Geneious	CDS	1113256	1113600	.	+	0	Name=Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC CDS
+NC_016842	Geneious	gene	1113601	1115121	.	+	.	Name=gatA gene
+NC_016842	Geneious	CDS	1113601	1115121	.	+	0	Name=gatA CDS
+NC_016842	Geneious	gene	1115114	1116643	.	+	.	Name=gatB gene
+NC_016842	Geneious	CDS	1115114	1116643	.	+	0	Name=gatB CDS
+NC_016842	Geneious	gene	1116739	1118106	.	-	.	Name=radA gene
+NC_016842	Geneious	CDS	1116739	1118106	.	-	0	Name=radA CDS
+NC_016842	Geneious	gene	1118153	1118647	.	-	.	Name=recX gene
+NC_016842	Geneious	CDS	1118153	1118647	.	-	0	Name=recX CDS
+NC_016842	Geneious	gene	1118775	1119164	.	-	.	Name=rpsI gene
+NC_016842	Geneious	CDS	1118775	1119164	.	-	0	Name=rpsI CDS
+NC_016842	Geneious	gene	1119180	1119608	.	-	.	Name=rplM gene
+NC_016842	Geneious	CDS	1119180	1119608	.	-	0	Name=rplM CDS
+NC_016842	Geneious	gene	1119605	1119892	.	-	.	
+NC_016842	Geneious	CDS	1119605	1119892	.	-	0	Name=hypothetical protein CDS
+NC_016842	Geneious	gene	1120041	1121810	.	+	.	
+NC_016842	Geneious	CDS	1120041	1121810	.	+	0	Name=M3 family oligoendopeptidase CDS
+NC_016842	Geneious	gene	1121933	1122709	.	+	.	Name=udp gene
+NC_016842	Geneious	CDS	1121933	1122709	.	+	0	Name=udp CDS
+NC_016842	Geneious	gene	1122725	1124737	.	-	.	
+NC_016842	Geneious	CDS	1122725	1124737	.	-	0	Name=ATP-dependent helicase CDS
+NC_016842	Geneious	gene	1124820	1125506	.	-	.	
+NC_016842	Geneious	CDS	1124820	1125506	.	-	0	Name=DbpA RNA binding domain-containing protein CDS
+NC_016842	Geneious	gene	1125547	1127217	.	+	.	
+NC_016842	Geneious	CDS	1125547	1127217	.	+	0	Name=major outer sheath N-terminal domain-containing protein CDS
+NC_016842	Geneious	gene	1127285	1127719	.	-	.	
+NC_016842	Geneious	CDS	1127285	1127719	.	-	0	Name=NusG domain II-containing protein CDS
+NC_016842	Geneious	gene	1127731	1128666	.	-	.	
+NC_016842	Geneious	CDS	1127731	1128666	.	-	0	Name=patatin-like phospholipase family protein CDS
+NC_016842	Geneious	gene	1128740	1129765	.	+	.	
+NC_016842	Geneious	CDS	1128740	1129765	.	+	0	Name=sodium:calcium antiporter CDS
+NC_016842	Geneious	gene	1129762	1132632	.	-	.	
+NC_016842	Geneious	CDS	1129762	1132632	.	-	0	Name=valine--tRNA ligase CDS
+NC_016842	Geneious	gene	1132785	1135163	.	+	.	
+NC_016842	Geneious	CDS	1132785	1135163	.	+	0	Name=heavy metal translocating P-type ATPase CDS
+NC_016842	Geneious	gene	1135253	1135969	.	-	.	Name=trhA gene
+NC_016842	Geneious	CDS	1135253	1135969	.	-	0	Name=trhA CDS
+NC_016842	Geneious	gene	1136128	1136661	.	-	.	
+NC_016842	Geneious	CDS	1136128	1136661	.	-	0	Name=Dps family protein CDS
+NC_016842	Geneious	gene	1136888	1137460	.	+	.	
+NC_016842	Geneious	CDS	1136888	1137460	.	+	0	Name=adenine phosphoribosyltransferase CDS
+NC_016842	Geneious	gene	1137483	1138538	.	-	.	
+NC_016842	Geneious	CDS	1137483	1138538	.	-	0	Name=EF-P lysine aminoacylase GenX CDS
+NC_016842	Geneious	gene	1138538	1139137	.	-	.	
+NC_016842	Geneious	CDS	1138538	1139137	.	-	0	Name=ATP-dependent Clp protease proteolytic subunit CDS

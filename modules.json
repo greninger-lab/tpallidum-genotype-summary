@@ -1,0 +1,187 @@
+{
+    "name": "tpallidum-genotype-summary",
+    "homePage": "https://github.com/greninger-lab/tpallidum-genotype-summary",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {
+                    "bbmap/bbduk": {
+                        "branch": "master",
+                        "git_sha": "a1abf90966a2a4016d3c3e41e228bfcbd4811ccc",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "bcftools/consensus": {
+                        "branch": "master",
+                        "git_sha": "2efa3f86f20c99d23a231d631a94badde8e3501c",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "bowtie2/align": {
+                        "branch": "master",
+                        "git_sha": "2d20463181b1c38981a02e90d3084b5f9fa8d540",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "bowtie2/build": {
+                        "branch": "master",
+                        "git_sha": "666652151335353eef2fcd58880bcef5bc2928e1",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "custom/dumpsoftwareversions": {
+                        "branch": "master",
+                        "git_sha": "76cc4938c1f6ea5c7d83fed1eeffc146787f9543",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "fastqc": {
+                        "branch": "master",
+                        "git_sha": "c8e35eb2055c099720a75538d1b8adb3fb5a464c",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/combinegvcfs": {
+                        "branch": "master",
+                        "git_sha": "81880787133db07d9b4c1febd152c090eb8325dc",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/genomicsdbimport": {
+                        "branch": "master",
+                        "git_sha": "6baf1c4cb0e05d7167c3d9280a03972f7fcbbbcb",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/genotypegvcfs": {
+                        "branch": "master",
+                        "git_sha": "81880787133db07d9b4c1febd152c090eb8325dc",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/haplotypecaller": {
+                        "branch": "master",
+                        "git_sha": "1999eff2c530b2b185a25cc42117a1686f09b685",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/indexfeaturefile": {
+                        "branch": "master",
+                        "git_sha": "81880787133db07d9b4c1febd152c090eb8325dc",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/reblockgvcf": {
+                        "branch": "master",
+                        "git_sha": "52b7843bd92ccf833cc12e71cd84aeccf2583852",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/selectvariants": {
+                        "branch": "master",
+                        "git_sha": "81880787133db07d9b4c1febd152c090eb8325dc",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "gatk4/variantfiltration": {
+                        "branch": "master",
+                        "git_sha": "1999eff2c530b2b185a25cc42117a1686f09b685",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "kraken2/kraken2": {
+                        "branch": "master",
+                        "git_sha": "0e9cb409c32d3ec4f0d3804588e4778971c09b7e",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "multiqc": {
+                        "branch": "master",
+                        "git_sha": "f2d63bd5b68925f98f572eed70993d205cc694b7",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "picard/addorreplacereadgroups": {
+                        "branch": "master",
+                        "git_sha": "49f4e50534fe4b64101e62ea41d5dc43b1324358",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "picard/markduplicates": {
+                        "branch": "master",
+                        "git_sha": "49f4e50534fe4b64101e62ea41d5dc43b1324358",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "samtools/index": {
+                        "branch": "master",
+                        "git_sha": "b13f07be4c508d6ff6312d354d09f2493243e208",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "samtools/merge": {
+                        "branch": "master",
+                        "git_sha": "b13f07be4c508d6ff6312d354d09f2493243e208",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "samtools/view": {
+                        "branch": "master",
+                        "git_sha": "2d20463181b1c38981a02e90d3084b5f9fa8d540",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "seqkit/stats": {
+                        "branch": "master",
+                        "git_sha": "666652151335353eef2fcd58880bcef5bc2928e1",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "tabix/bgzip": {
+                        "branch": "master",
+                        "git_sha": "666652151335353eef2fcd58880bcef5bc2928e1",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "tabix/tabix": {
+                        "branch": "master",
+                        "git_sha": "666652151335353eef2fcd58880bcef5bc2928e1",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    },
+                    "trimmomatic": {
+                        "branch": "master",
+                        "git_sha": "666652151335353eef2fcd58880bcef5bc2928e1",
+                        "installed_by": [
+                            "modules"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
