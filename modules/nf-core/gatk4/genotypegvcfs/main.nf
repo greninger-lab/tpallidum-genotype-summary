@@ -1,6 +1,6 @@
 process GATK4_GENOTYPEGVCFS {
     tag "$meta.id"
-    label 'process_medium'
+    label 'process_high'
 
     container 'community.wave.seqera.io/library/gatk4_gcnvkernel:e48d414933d188cd'
 

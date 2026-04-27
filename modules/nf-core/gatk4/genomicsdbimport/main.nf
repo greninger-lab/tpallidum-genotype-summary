@@ -8,7 +8,7 @@ process GATK4_GENOMICSDBIMPORT {
         : 'community.wave.seqera.io/library/gatk4_gcnvkernel:edb12e4f0bf02cd3'}"
 
     input:
-    tuple val(meta), path(vcf), path(tbi), path(interval_file), val(interval_value), path(wspace)
+    tuple val(meta), path(sample_map), path(gvcfs), path(tbis), val(interval_value), path(wspace)
     val run_intlist
     val run_updatewspace
     val input_map
@@ -26,31 +26,31 @@ process GATK4_GENOMICSDBIMPORT {
     def args = task.ext.args ?: ''
     prefix = task.ext.prefix ?: "${meta.id}"
 
-    // settings for running default create gendb mode
-    input_command = input_map ? "--sample-name-map ${vcf[0]}" : vcf.collect { vcf_ -> "--variant ${vcf_}" }.join(' ')
+    // When using sample_map, point to the staged sample_map file
+    // gvcfs and tbis are staged in the same work dir automatically
+    input_command = input_map ? "--sample-name-map ${sample_map}" : gvcfs.collect { gvcf_ -> "--variant ${gvcf_}" }.join(' ')
 
     genomicsdb_command = "--genomicsdb-workspace-path ${prefix}"
-    interval_command = interval_file ? "--intervals ${interval_file}" : "--intervals ${interval_value}"
-    updated_db = ""
+    interval_command   = "--intervals ${interval_value}"
+    updated_db         = ""
 
-    // settings changed for running get intervals list mode if run_intlist is true
+    // settings changed for running get intervals list mode
     if (run_intlist) {
         genomicsdb_command = "--genomicsdb-update-workspace-path ${wspace}"
-        interval_command = "--output-interval-list-to-file ${prefix}.interval_list"
+        interval_command   = "--output-interval-list-to-file ${prefix}.interval_list"
     }
 
-    // settings changed for running update gendb mode. input_command same as default, update_db forces module to emit the updated gendb
+    // settings changed for running update gendb mode
     if (run_updatewspace) {
         genomicsdb_command = "--genomicsdb-update-workspace-path ${wspace}"
-        interval_command = ''
-        updated_db = "${wspace}"
+        interval_command   = ''
+        updated_db         = "${wspace}"
     }
 
     def avail_mem = 3072
     if (!task.memory) {
         log.info('[GATK GenomicsDBImport] Available memory not known - defaulting to 3GB. Specify process memory requirements to change this.')
-    }
-    else {
+    } else {
         avail_mem = (task.memory.mega * 0.8).intValue()
     }
 
@@ -73,28 +73,26 @@ process GATK4_GENOMICSDBIMPORT {
     """
 
     stub:
-    prefix = task.ext.prefix ?: "${meta.id}"
-
-    genomicsdb_command = "--genomicsdb-workspace-path ${prefix}"
-    interval_command = interval_file ? "--intervals ${interval_file}" : "--intervals ${interval_value}"
+    prefix     = task.ext.prefix ?: "${meta.id}"
     updated_db = ""
 
-    // settings changed for running get intervals list mode if run_intlist is true
+    genomicsdb_command = "--genomicsdb-workspace-path ${prefix}"
+    interval_command   = "--intervals ${interval_value}"
+
     if (run_intlist) {
         genomicsdb_command = "--genomicsdb-update-workspace-path ${wspace}"
-        interval_command = "--output-interval-list-to-file ${prefix}.interval_list"
+        interval_command   = "--output-interval-list-to-file ${prefix}.interval_list"
     }
 
-    // settings changed for running update gendb mode. input_command same as default, update_db forces module to emit the updated gendb
     if (run_updatewspace) {
         genomicsdb_command = "--genomicsdb-update-workspace-path ${wspace}"
-        interval_command = ''
-        updated_db = "${wspace}"
+        interval_command   = ''
+        updated_db         = "${wspace}"
     }
 
-    def stub_genomicsdb = genomicsdb_command == "--genomicsdb-workspace-path ${prefix}" ? "touch ${prefix}" : ""
-    def stub_interval = interval_command == "--output-interval-list-to-file ${prefix}.interval_list" ? "touch ${prefix}.interval_list" : ""
-    def stub_update = updated_db != "" ? "touch ${wspace}" : ""
+    def stub_genomicsdb = genomicsdb_command == "--genomicsdb-workspace-path ${prefix}"                            ? "mkdir ${prefix}" : ""
+    def stub_interval   = interval_command   == "--output-interval-list-to-file ${prefix}.interval_list"           ? "touch ${prefix}.interval_list" : ""
+    def stub_update     = updated_db         != ""                                                                 ? "mkdir ${wspace}" : ""
 
     """
     ${stub_genomicsdb}
