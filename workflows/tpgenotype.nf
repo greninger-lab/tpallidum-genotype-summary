@@ -58,7 +58,6 @@ log.info "Using interval: ${interval}"
 
 include { INPUT_CHECK                                   } from '../subworkflows/local/input_check'
 include { BCFTOOLS as BCFTOOLS_GT_UNFILTERED            } from '../modules/local/bcftools'
-include { BCFTOOLS as BCFTOOLS_GT_FILTERED_DP           } from '../modules/local/bcftools'
 include { BCFTOOLS as BCFTOOLS_VIEW_SNP                 } from '../modules/local/bcftools'
 include { BCFTOOLS as BCFTOOLS_VIEW_FILTER_MASK         } from '../modules/local/bcftools'
 include { VARIANTS_TO_TABLE as VARIANTS_TO_TABLE_NOCALL } from '../modules/local/variants_to_table'
@@ -178,31 +177,27 @@ workflow TPGENOTYPE {
         ch_dict
     )
 
-    BCFTOOLS_GT_UNFILTERED (
+    BCFTOOLS_GT_AFDP_FILTER (
         GATK4_GENOTYPEGVCFS.out.vcf
     )
 
-    BCFTOOLS_GT_FILTERED_DP (
-        BCFTOOLS_GT_UNFILTERED.out.vcf
-    )
-
     GATK4_INDEX_GT_FILTERED_DP (
-        BCFTOOLS_GT_FILTERED_DP.out.vcf
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf
     )
 
-    GATK4_VARIANTFILTRATION_GT_AF08DP3 (
-        BCFTOOLS_GT_FILTERED_DP.out.vcf
+    GATK4_VARIANTFILTRATION_GT_AF09DP5 (
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf
             .join(GATK4_INDEX_GT_FILTERED_DP.out.index)
             .map { meta, vcf, tbi -> [meta, [vcf], [tbi]] },
-        BCFTOOLS_GT_FILTERED_DP.out.vcf.combine(ch_fasta).map       { meta, vcf, fa  -> [meta, [fa]]  },
-        BCFTOOLS_GT_FILTERED_DP.out.vcf.combine(ch_fasta_fai).map   { meta, vcf, fai -> [meta, [fai]] },
-        BCFTOOLS_GT_FILTERED_DP.out.vcf.combine(ch_dict).map        { meta, vcf, d   -> [meta, [d]]   },
-        BCFTOOLS_GT_FILTERED_DP.out.vcf.combine(ch_mask_v4).map     { meta, vcf, m   -> [meta, [m]]   },
-        BCFTOOLS_GT_FILTERED_DP.out.vcf.combine(ch_mask_v4_idx).map { meta, vcf, mi  -> [meta, [mi]]  }
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf.combine(ch_fasta).map       { meta, vcf, fa  -> [meta, [fa]]  },
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf.combine(ch_fasta_fai).map   { meta, vcf, fai -> [meta, [fai]] },
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf.combine(ch_dict).map        { meta, vcf, d   -> [meta, [d]]   },
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf.combine(ch_mask_v4).map     { meta, vcf, m   -> [meta, [m]]   },
+        BCFTOOLS_GT_AFDP_FILTER.out.vcf.combine(ch_mask_v4_idx).map { meta, vcf, mi  -> [meta, [mi]]  }
     )
 
     BCFTOOLS_VIEW_SNP (
-        GATK4_VARIANTFILTRATION_GT_AF08DP3.out.vcf
+        GATK4_VARIANTFILTRATION_GT_AF09DP5.out.vcf
     )
 
     BCFTOOLS_VIEW_FILTER_MASK (
