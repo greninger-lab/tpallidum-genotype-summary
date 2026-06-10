@@ -58,6 +58,7 @@ log.info "Using interval: ${interval}"
 
 include { INPUT_CHECK                                   } from '../subworkflows/local/input_check'
 include { BCFTOOLS as BCFTOOLS_GT_UNFILTERED            } from '../modules/local/bcftools'
+include { BCFTOOLS as BCFTOOLS_GT_AFDP_FILTER           } from '../modules/local/bcftools'
 include { BCFTOOLS as BCFTOOLS_VIEW_SNP                 } from '../modules/local/bcftools'
 include { BCFTOOLS as BCFTOOLS_VIEW_FILTER_MASK         } from '../modules/local/bcftools'
 include { VARIANTS_TO_TABLE as VARIANTS_TO_TABLE_NOCALL } from '../modules/local/variants_to_table'
@@ -73,7 +74,7 @@ include { SUMMARY_FINAL                                 } from '../modules/local
 include { GATK4_INDEXFEATUREFILE                                             } from '../modules/nf-core/gatk4/indexfeaturefile/main'
 include { GATK4_INDEXFEATUREFILE as GATK4_INDEX_GT_FILTERED_DP               } from '../modules/nf-core/gatk4/indexfeaturefile/main'
 include { GATK4_INDEXFEATUREFILE as GATK4_INDEX_MASKED_SNPS                  } from '../modules/nf-core/gatk4/indexfeaturefile/main'
-include { GATK4_VARIANTFILTRATION as GATK4_VARIANTFILTRATION_GT_AF08DP3      } from '../modules/nf-core/gatk4/variantfiltration/main'
+include { GATK4_VARIANTFILTRATION as GATK4_VARIANTFILTRATION_GT_AF09DP5      } from '../modules/nf-core/gatk4/variantfiltration/main'
 include { GATK4_GENOMICSDBIMPORT                                             } from '../modules/nf-core/gatk4/genomicsdbimport/main'
 include { GATK4_GENOTYPEGVCFS                                                } from '../modules/nf-core/gatk4/genotypegvcfs/main'
 
