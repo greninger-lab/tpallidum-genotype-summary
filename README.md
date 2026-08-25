@@ -4,7 +4,7 @@ Syphilis is surging worldwide, with more than 8 million incident cases per year 
 
  _Treponema pallidum_ is a fastidious Gram negative spirochete with a single 1.14 Mb syntenic chromosome. It has no known plasmids, phage, transposons or other mobile genetic elements. _T. pallidum_ includes subspecies _pallidum_, _pertenue_, and _endemicum_, which are morphologically indistinguishable and cause venereal syphilis, yaws, and endemicum, respectively. With 99.8% pairwise identity between the subspecies, genomics approaches are broadly applicable across _T. pallidum_.  
 
-**The purpose of this pipeline is to perform standardized Treponema pallidum variant calling by creating or updating a GenomicsDB workspace using GVCF files as input, and then genotyping followed by filtering. **  
+**The purpose of this pipeline is to perform standardized Treponema pallidum variant calling by creating or updating a GenomicsDB workspace using GVCF files as input, and then genotyping followed by filtering.**  
 
 ##### Input sample_gvcfs.csv example format:
 ---------
